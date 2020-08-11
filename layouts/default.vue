@@ -149,6 +149,7 @@ header {
   .hamburger {
     margin-left: auto;
     font-size: 36px;
+    cursor: pointer;
 
     @media screen and (min-width: 800px) {
       display: none;
