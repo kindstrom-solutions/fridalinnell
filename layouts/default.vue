@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="mobile-menu" :class="{ visible: overlayVisible }">
-      <a class="closebtn" @click="hideOverlay()">&times;</a>
+      <a class="closebtn" @click="hideOverlay()" style="cursor: pointer;">&times;</a>
       <div class="overlay-content">
         <nuxt-link to="/om-mig">Om mig</nuxt-link>
         <nuxt-link to="/cv">CV</nuxt-link>
@@ -206,7 +206,7 @@ header {
     transition: 0.3s;
 
     &:hover, &:focus {
-      color: #f1f1f1;
+      color: #f08e80;
     }
 
     &.current {
