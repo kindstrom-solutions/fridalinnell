@@ -35,10 +35,14 @@ export default {}
 
 <style lang="scss" scoped>
 .contact-info {
-  padding: 120px 140px 70px 100px;
+  padding: 120px 40px 70px 20px;
   background-color: #fff;
   display: grid;
   grid-template-columns: 1fr 1fr;
+
+  @media screen and (min-width: 800px) {
+    padding: 120px 140px 70px 100px;
+  }
 
   .content {
     margin: auto;

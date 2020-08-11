@@ -1,5 +1,14 @@
 <template>
   <div>
+    <div class="mobile-menu" :class="{ visible: overlayVisible }">
+      <a class="closebtn" @click="hideOverlay()">&times;</a>
+      <div class="overlay-content">
+        <nuxt-link to="/om-mig">Om mig</nuxt-link>
+        <nuxt-link to="/cv">CV</nuxt-link>
+        <nuxt-link to="/lyssna-titta">Lyssna och titta</nuxt-link>
+        <nuxt-link to="/kontakt">Kontakt</nuxt-link>
+      </div>
+    </div>
     <header :class="textColor">
       <nuxt-link to="/" class="site-title">Frida Linnell</nuxt-link>
       <div class="links">
@@ -8,7 +17,7 @@
         <nuxt-link to="/lyssna-titta" :class="{ active: $route.name === 'lyssna-titta' }">Lyssna och titta</nuxt-link>
         <nuxt-link to="/kontakt" :class="{ active: $route.name === 'kontakt' }">Kontakt</nuxt-link>
       </div>
-      <div class="hamburger">
+      <div class="hamburger" @click="showOverlay()" :style="{ display: overlayVisible ? 'none' : '' }">
         &#9776;
       </div>
     </header>
@@ -18,8 +27,18 @@
 
 <script>
 export default {
-  mounted() {
-    console.log(this.textColor)
+  data() {
+    return {
+      overlayVisible: false
+    }
+  },
+  methods: {
+    showOverlay() {
+      this.overlayVisible = true
+    },
+    hideOverlay() {
+      this.overlayVisible = false
+    }
   },
   computed: {
     textColor() {
@@ -29,6 +48,13 @@ export default {
       } else {
         return ''
       }
+    }
+  },
+  watch:{
+    $route (to, from){
+      setTimeout(() => {
+        this.overlayVisible = false
+      }, 100)
     }
   }
 }
@@ -148,5 +174,57 @@ header {
 *::after {
   box-sizing: border-box;
   margin: 0;
+}
+
+.mobile-menu {
+  opacity: 0;
+  display: none;
+  height: 100%;
+  width: 100%;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  background-color: #fdf0e6;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+  font-family: 'Source Sans Pro', sans-serif;
+
+  &.visible {
+    opacity: 1;
+    display: block;
+  }
+
+  a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 6.6vmin;
+    color: #000;
+    display: block;
+    transition: 0.3s;
+
+    &:hover, &:focus {
+      color: #f1f1f1;
+    }
+
+    &.current {
+      color: #fff;
+    }
+  }
+
+  .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+  }
+
+  .overlay-content {
+    position: relative;
+    top: 25%; /* 25% from the top */
+    width: 100%; /* 100% width */
+    text-align: center; /* Centered text/links */
+    margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
+  }
 }
 </style>
