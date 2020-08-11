@@ -52,8 +52,9 @@ export default {
   },
   watch:{
     $route (to, from){
+      const vue = this
       setTimeout(() => {
-        this.overlayVisible = false
+        vue.overlayVisible = false
       }, 100)
     }
   }
