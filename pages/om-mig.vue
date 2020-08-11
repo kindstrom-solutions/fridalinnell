@@ -5,11 +5,14 @@
       <div class="page-header">
         Om mig
       </div>
-      <img alt="" data-src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg" data-image="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg" data-image-dimensions="2000x2996" data-image-focal-point="0.5299625468164794,0.3750586029067041" data-load="false" data-parent-ratio="1.3" style="width: 100%; height: 100%; object-position: 52.9963% 23.4543%; object-fit: cover;" class="" data-image-resolution="2500w" src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg?format=2500w">
+        <img alt="" data-src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg" data-image="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg" data-image-dimensions="2000x2996" data-image-focal-point="0.5299625468164794,0.3750586029067041" data-load="false" data-parent-ratio="1.3" style="width: 100%; height: 100%; object-position: 52.9963% 23.4543%; object-fit: cover;" class="" data-image-resolution="2500w" src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg?format=2500w">
     </div>
     <div class="about-section">
-      <img src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196da814b8344cfd66f406/1595508669611/DSC_4891+kopiera.jpg?format=1000w">
-      <div>
+      <div class="photo">
+        <img src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196da814b8344cfd66f406/1595508669611/DSC_4891+kopiera.jpg?format=1000w">
+        <p>Foton Linda Brelin</p>
+      </div>
+      <div class="about-text">
         <p>
           Jag är Frida. Uppvuxen på schlätten utanför Linköping och har numera min bas i Stockholm. Jag är utbildad musikalartist vid Högskolan för Scen och Musik i Göteborg och även från musikalartistutbildningen på Kulturama i Stockholm. Min
           allra första professionella träning gjorde jag under ett år i London vid Associated Studios Full-time Intensive Diploma in Musical Theatre.
@@ -64,10 +67,14 @@ export default {}
 }
 
 .about-section {
-  padding: 70px 50px;
+  padding: 70px 40px;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   column-gap: 40px;
+
+  @media screen and (min-width: 700px) {
+    grid-template-columns: 1fr 1fr;
+  }
 
   img {
     width: 100%;
@@ -75,9 +82,20 @@ export default {}
 
   p {
     font-family: 'Source Sans Pro', sans-serif;
-    padding-left: 20px;
-    margin-bottom: 20px;
-    font-weight: 300;
+  }
+
+  .about-text {
+    p {
+      font-family: 'Source Sans Pro', sans-serif;
+      padding-top: 20px;
+      margin-bottom: 20px;
+      font-weight: 300;
+
+      @media screen and (min-width: 700px) {
+        padding-top: 0;
+        padding-left: 20px;
+      }
+    }
   }
 }
 </style>

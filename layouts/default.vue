@@ -8,6 +8,9 @@
         <nuxt-link to="/lyssna-titta" :class="{ active: $route.name === 'lyssna-titta' }">Lyssna och titta</nuxt-link>
         <nuxt-link to="/kontakt" :class="{ active: $route.name === 'kontakt' }">Kontakt</nuxt-link>
       </div>
+      <div class="hamburger">
+        &#9776;
+      </div>
     </header>
     <Nuxt />
   </div>
@@ -94,6 +97,12 @@ header {
   .links {
     margin-left: auto;
     font-family: 'Source Sans Pro', sans-serif;
+    display: none;
+
+    @media screen and (min-width: 800px) {
+      display: block;
+    }
+    
     a {
       font-size: 16px;
       font-style: normal;
@@ -107,6 +116,15 @@ header {
       &:not(:first-child) {
         margin-left: 1.3vw;
       }
+    }
+  }
+
+  .hamburger {
+    margin-left: auto;
+    font-size: 36px;
+
+    @media screen and (min-width: 800px) {
+      display: none;
     }
   }
 }
