@@ -2,8 +2,12 @@
   <div class="container">
     <div class="top-images">
       <div class="image-gallery">
-        <img data-src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f195f5437e9e1546e7f8c1c/1595508612834/DSC_5121+%28kopia%29.jpg" data-image="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f195f5437e9e1546e7f8c1c/1595508612834/DSC_5121+%28kopia%29.jpg" data-image-dimensions="2000x2996" data-image-focal-point="0.49,0.28" alt="Foton Linda Brelin" data-load="false" data-parent-ratio="1.0" style="width: 100%; height: 100%; object-position: 49% 0%; object-fit: cover;" class="" data-image-resolution="1000w" src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f195f5437e9e1546e7f8c1c/1595508612834/DSC_5121+%28kopia%29.jpg?format=1000w">
-        <img data-src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f1960007884c24ae13a0d7f/1595508623182/DSC_4836+kopiera.jpg" data-image="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f1960007884c24ae13a0d7f/1595508623182/DSC_4836+kopiera.jpg" data-image-dimensions="2000x2996" data-image-focal-point="0.46,0.4" alt="DSC_4836 kopiera.jpg" data-load="false" data-parent-ratio="1.0" style="width: 100%; height: 100%; object-position: 46% 19.9565%; object-fit: cover;" class="" data-image-resolution="1000w" src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f1960007884c24ae13a0d7f/1595508623182/DSC_4836+kopiera.jpg?format=1000w">
+        <div class="image">
+          <img data-src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f195f5437e9e1546e7f8c1c/1595508612834/DSC_5121+%28kopia%29.jpg" data-image="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f195f5437e9e1546e7f8c1c/1595508612834/DSC_5121+%28kopia%29.jpg" data-image-dimensions="2000x2996" data-image-focal-point="0.49,0.28" alt="Foton Linda Brelin" data-load="false" data-parent-ratio="1.0" style="width: 100%; height: 100%; object-position: 49% 0%; object-fit: cover;" class="" data-image-resolution="1000w" src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f195f5437e9e1546e7f8c1c/1595508612834/DSC_5121+%28kopia%29.jpg?format=1000w">
+        </div>
+        <div class="image">
+          <img data-src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f1960007884c24ae13a0d7f/1595508623182/DSC_4836+kopiera.jpg" data-image="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f1960007884c24ae13a0d7f/1595508623182/DSC_4836+kopiera.jpg" data-image-dimensions="2000x2996" data-image-focal-point="0.46,0.4" alt="DSC_4836 kopiera.jpg" data-load="false" data-parent-ratio="1.0" style="width: 100%; height: 100%; object-position: 46% 19.9565%; object-fit: cover;" class="" data-image-resolution="1000w" src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f1960007884c24ae13a0d7f/1595508623182/DSC_4836+kopiera.jpg?format=1000w">
+        </div>
       </div>
       <p>
         Foton: Linda Brelin
@@ -59,15 +63,29 @@ export default {}
   
   .image-gallery {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     column-gap: 20px;
-    height: 420px;
+    row-gap: 40px;
+
+    @media screen and (min-width: 800px) {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .image {
+      padding-bottom: 100%;
+      overflow: hidden;
+      position: relative;
+
+      img {
+        position: absolute;
+      }
+    }
   }
 
   p {
     font-family: 'Source Sans Pro', sans-serif;
     margin-bottom: 20px;
-    padding-bottom: 20px;
+    padding: 10px 0 20px 0;
     font-weight: 300;
   }
 }
