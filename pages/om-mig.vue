@@ -5,7 +5,7 @@
       <div class="page-header">
         Om mig
       </div>
-        <img alt="" data-src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg" data-image="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg" data-image-dimensions="2000x2996" data-image-focal-point="0.5299625468164794,0.3750586029067041" data-load="false" data-parent-ratio="1.3" style="width: 100%; height: 100%; object-position: 52.9963% 23.4543%; object-fit: cover;" class="" data-image-resolution="2500w" src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg?format=2500w">
+      <img alt="" data-src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg" data-image="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg" data-image-dimensions="2000x2996" data-image-focal-point="0.5299625468164794,0.3750586029067041" data-load="false" data-parent-ratio="1.3" style="width: 100%; height: 100%; object-position: 52.9963% 23.4543%; object-fit: cover;" class="" data-image-resolution="2500w" src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg?format=2500w">
     </div>
     <div class="about-section">
       <div class="photo">

@@ -24,7 +24,7 @@ export default {
   computed: {
     textColor() {
       const route = this.$route.name
-      if (route === 'cv' || route === 'kontakt') {
+      if (route === 'cv' || route === 'lyssna-titta' || route === 'kontakt') {
         return 'black-text'
       } else {
         return ''
