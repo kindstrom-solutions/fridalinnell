@@ -30,10 +30,14 @@
         class=""
         data-image-resolution="2500w"
         src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f19777ea9f2de33307a3860/1595504521427/DSC_5080+kopiera.jpg?format=2500w">
+        <div class="image-welcome">
+          Välkommen
+        </div>
         <div class="image-text">
           Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar nu som frilansande skådespelerska och musikalartist.
           Frida sågs senast i läsningen av den nyskrivna musikalen Kära Anna i rollen som Alex, i samband med Musikalsymposiet på Smålands Musik och Teater i maj 2020.
         </div>
+        <nuxt-link to="/om-mig" class="image-button">Om mig</nuxt-link>
     </div>
     <div class="quote-section">
       <h2>“I Frida Linnell bor en framtida musikalstjärna helt klart”</h2>
@@ -50,12 +54,33 @@ export default {}
 .big-image {
   height: 100vh;
 
+  .image-welcome {
+    position: relative;
+    padding: 0 40px;
+    top: -805px;
+    font-size: 48px;
+    color: #fff;
+  }
   .image-text {
     position: relative;
     padding: 0 40px;
-    top: -700px;
+    top: -790px;
     font-size: 24px;
     color: #fff;
+  }
+  .image-button {
+    position: relative;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0 40px;
+    padding: 16px;
+    width: 104px;
+    border-radius: 4px;
+    font-size: 20px;
+    top: -770px;
+    color: #fff;
+    background-color: #f08e80;
+    border-color: #f08e80;
+    text-decoration: none;
   }
 }
 
