@@ -72,7 +72,7 @@ export default {}
   grid-template-columns: 1fr;
   column-gap: 40px;
 
-  @media screen and (min-width: 700px) {
+  @media screen and (min-width: 800px) {
     grid-template-columns: 1fr 1fr;
   }
 
@@ -91,7 +91,7 @@ export default {}
       margin-bottom: 20px;
       font-weight: 300;
 
-      @media screen and (min-width: 700px) {
+      @media screen and (min-width: 800px) {
         padding-top: 0;
         padding-left: 20px;
       }

@@ -58,7 +58,7 @@ export default {}
 
 <style lang="scss" scoped>
 .top-images {
-  padding: 120px 40px 40px 40px;
+  padding: 140px 40px 40px 40px;
   background-color: #fff;
   
   .image-gallery {
