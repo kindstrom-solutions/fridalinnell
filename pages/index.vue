@@ -3,22 +3,14 @@
     <div class="big-image">
       <img
         alt=""
-        data-src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f194bf4d94f933c543f936b/1595493429534/DSC_4894+kopiera.jpg"
-        data-image="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f194bf4d94f933c543f936b/1595493429534/DSC_4894+kopiera.jpg"
-        data-image-dimensions="2000x1335"
-        data-image-focal-point="0.6188811188811189,0.471088574466345"
-        data-load="false"
-        data-parent-ratio="1.2"
-        style="display: block; width: 100%; height: 100%; object-position: 100% 47.1089%; object-fit: cover;"
-        class=""
-        data-image-resolution="2500w"
+        style="display: block; width: 100%; height: 100%; object-position: 69.9098% 0%; object-fit: cover;"
         src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f194bf4d94f933c543f936b/1595493429534/DSC_4894+kopiera.jpg?format=2500w">
     </div>
     <div class="text-section">
       <h3>skådespelerska / sångerska / musikalartist</h3>
     </div>
-    <div class="big-image">
-      <img
+    <div class="big-image info-section">
+      <!-- <img
         alt=""
         data-src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f19777ea9f2de33307a3860/1595504521427/DSC_5080+kopiera.jpg"
         data-image="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f19777ea9f2de33307a3860/1595504521427/DSC_5080+kopiera.jpg"
@@ -29,7 +21,7 @@
         style="display: block; width: 100%; height: 100%; object-position: 50% 50%; object-fit: cover;"
         class=""
         data-image-resolution="2500w"
-        src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f19777ea9f2de33307a3860/1595504521427/DSC_5080+kopiera.jpg?format=2500w">
+        src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f19777ea9f2de33307a3860/1595504521427/DSC_5080+kopiera.jpg?format=2500w"> -->
         <div class="image-welcome">
           Välkommen
         </div>
@@ -53,30 +45,33 @@ export default {}
 <style lang="scss" scoped>
 .big-image {
   height: 100vh;
+}
+
+.info-section {
+  background-image: url('https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f19777ea9f2de33307a3860/1595504521427/DSC_5080+kopiera.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 6vw 4vw 4vw 4vw;
 
   .image-welcome {
-    position: relative;
     padding: 0 40px;
-    top: -805px;
     font-size: 48px;
     color: #fff;
+    margin-bottom: 20px;
   }
   .image-text {
-    position: relative;
     padding: 0 40px;
-    top: -790px;
+    margin-bottom: 40px;
     font-size: 24px;
     color: #fff;
   }
   .image-button {
-    position: relative;
     font-family: 'Source Sans Pro', sans-serif;
     margin: 0 40px;
     padding: 16px;
     width: 104px;
     border-radius: 4px;
     font-size: 20px;
-    top: -770px;
     color: #fff;
     background-color: #f08e80;
     border-color: #f08e80;

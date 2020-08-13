@@ -103,12 +103,13 @@ header {
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   pointer-events: none;
   box-sizing: border-box;
-  padding-top: 2vw;
-  padding-bottom: 2vw;
-  padding-left: 4vw;
-  padding-right: 4vw;
+  padding: 6vw;
   pointer-events: auto;
   color: #fff;
+
+  @media screen and (min-width: 800px) {
+    padding: 2vw 4vw;
+  }
 
   .site-title {
     font-size: calc(1.4vw + 1rem);
