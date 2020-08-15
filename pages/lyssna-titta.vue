@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="y2b-grid" style="padding-top: 100px;">
+    <div class="y2b-grid" style="padding-top: 8vw;">
       <div class="video">
         <div class="video-frame">
           <iframe
@@ -68,6 +68,24 @@
         </p>
       </div>
     </div>
+    <div class="spotify-grid">
+      <div class="info" style="padding-right: 80px;">
+        <h4>Närmare Kanten / Original Cast Recording</h4>
+        <p>
+          <em>Närmare Kanten</em> är en unik scenisk berättelse skriven av Martin Schaub, Patrick Rydman och Mattias Palm,
+          i samarbete med Stiftelsen Gyllenkroken och Högskolan för Scen och Musik.
+          Hela musikalen är inspelad i Svenska Grammofonstudion av originalensemblen, där Frida gjorde rollen som Isabelle.
+        </p>
+      </div>
+      <iframe
+        scrolling="no"
+        frameborder="0"
+        id="player"
+        src="https://open.spotify.com/embed/track/2NwtBu0p14IbTeUPSLNeAR?referrer=https%3A%2F%2Ffridalinnell.se%2Fphoto-gallery"
+        allowfullscreen="true"
+        style="width: 100%; height: 100%;">
+      </iframe>
+    </div>
   </div>
 </template>
 
@@ -80,7 +98,7 @@ export default {}
   display: grid;
   grid-template-columns: 1fr;
   column-gap: 40px;
-  padding: 40px;
+  padding: 3.3vmax 4vw;
 
   @media screen and (min-width: 800px) {
     grid-template-columns: 1fr 1fr;
@@ -128,12 +146,46 @@ export default {}
     font-style: normal;
     letter-spacing: 0em;
     text-transform: none;
+
+    @media screen and (min-width: 1944px) {
+      font-size: 2.8rem;
+    }
   }
 
   p {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 16px;
     margin: 1rem 0;
+  }
+}
+
+.spotify-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  column-gap: 40px;
+  padding: 3.3vmax 4vw;
+
+  @media screen and (min-width: 800px) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  h4 {
+    font-size: calc(.72vw +  1rem);
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0em;
+    text-transform: none;
+    margin-bottom: 32px;
+
+    @media screen and (min-width: 1944px) {
+      font-size: 1.6rem;
+    }
+  }
+
+  p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
   }
 }
 </style>

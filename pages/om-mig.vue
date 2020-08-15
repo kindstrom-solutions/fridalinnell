@@ -5,11 +5,14 @@
       <div class="page-header">
         Om mig
       </div>
-      <img alt="" data-src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg" data-image="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg" data-image-dimensions="2000x2996" data-image-focal-point="0.5299625468164794,0.3750586029067041" data-load="false" data-parent-ratio="1.3" style="width: 100%; height: 100%; object-position: 52.9963% 23.4543%; object-fit: cover;" class="" data-image-resolution="2500w" src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196bcda9f2de3330792c2a/1595501574960/DSC_4978+kopiera.jpg?format=2500w">
+      <img
+        alt=""
+        style="width: 100%; height: 100%; object-position: 52.9963% 23.4543%; object-fit: cover;"
+        src="/DSC_4978.jpg">
     </div>
     <div class="about-section">
       <div class="photo">
-        <img src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/t/5f196da814b8344cfd66f406/1595508669611/DSC_4891+kopiera.jpg?format=1000w">
+        <img src="/DSC_4891.jpg">
         <p>Foton Linda Brelin</p>
       </div>
       <div class="about-text">
@@ -59,21 +62,26 @@ export default {}
 
   .page-header {
     position: absolute;
-    left: 40px;
+    left: 6vw;
     bottom: 50px;
     font-size: 52px;
     color: #fff;
+
+    @media screen and (min-width: 800px) {
+      left: 4vw;
+    }
   }
 }
 
 .about-section {
-  padding: 70px 40px;
+  padding: 70px 6vw;
   display: grid;
   grid-template-columns: 1fr;
   column-gap: 40px;
 
   @media screen and (min-width: 800px) {
     grid-template-columns: 1fr 1fr;
+    padding: 70px 4vw;
   }
 
   img {
@@ -81,6 +89,7 @@ export default {}
   }
 
   p {
+    margin-top: 10px;
     font-family: 'Source Sans Pro', sans-serif;
   }
 

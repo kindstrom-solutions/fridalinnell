@@ -3,10 +3,16 @@
     <div class="top-images">
       <div class="image-gallery">
         <div class="image">
-          <img data-src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f195f5437e9e1546e7f8c1c/1595508612834/DSC_5121+%28kopia%29.jpg" data-image="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f195f5437e9e1546e7f8c1c/1595508612834/DSC_5121+%28kopia%29.jpg" data-image-dimensions="2000x2996" data-image-focal-point="0.49,0.28" alt="Foton Linda Brelin" data-load="false" data-parent-ratio="1.0" style="width: 100%; height: 100%; object-position: 49% 0%; object-fit: cover;" class="" data-image-resolution="1000w" src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f195f5437e9e1546e7f8c1c/1595508612834/DSC_5121+%28kopia%29.jpg?format=1000w">
+          <img
+            alt="Foton Linda Brelin"
+            style="width: 100%; height: 100%; object-position: 49% 0%; object-fit: cover;"
+            src="/DSC_5121.jpg">
         </div>
         <div class="image">
-          <img data-src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f1960007884c24ae13a0d7f/1595508623182/DSC_4836+kopiera.jpg" data-image="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f1960007884c24ae13a0d7f/1595508623182/DSC_4836+kopiera.jpg" data-image-dimensions="2000x2996" data-image-focal-point="0.46,0.4" alt="DSC_4836 kopiera.jpg" data-load="false" data-parent-ratio="1.0" style="width: 100%; height: 100%; object-position: 46% 19.9565%; object-fit: cover;" class="" data-image-resolution="1000w" src="https://static1.squarespace.com/static/5f1949778b7bbc3e9fb0869c/5f195008b8cb2c06bfc1f33f/5f1960007884c24ae13a0d7f/1595508623182/DSC_4836+kopiera.jpg?format=1000w">
+          <img
+            alt="DSC_4836 kopiera.jpg"
+            style="width: 100%; height: 100%; object-position: 46% 19.9565%; object-fit: cover;"
+            src="/DSC_4836.jpg">
         </div>
       </div>
       <p>
@@ -58,14 +64,18 @@ export default {}
 
 <style lang="scss" scoped>
 .top-images {
-  padding: 140px 40px 40px 40px;
+  padding: 140px 6vw 40px 6vw;
   background-color: #fff;
+
+  @media screen and (min-width: 800px) {
+    padding: 140px 4vw 40px 4vw;
+  }
   
   .image-gallery {
     display: grid;
     grid-template-columns: 1fr;
-    column-gap: 20px;
-    row-gap: 40px;
+    column-gap: 2vw;
+    row-gap: 2vw;
 
     @media screen and (min-width: 800px) {
       grid-template-columns: 1fr 1fr;
@@ -95,7 +105,11 @@ export default {}
 }
 
 .cv-section, .scene-section, .other-section {
-  padding: 70px 40px;
+  padding: 70px 6vw;
+
+  @media screen and (min-width: 800px) {
+    padding: 70px 4vw;
+  }
 
   h4 {
     font-size: 24px;

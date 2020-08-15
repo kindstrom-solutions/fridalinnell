@@ -217,8 +217,8 @@ header {
 
   .closebtn {
     position: absolute;
-    top: 20px;
-    right: 45px;
+    top: 0;
+    right: 20px;
     font-size: 60px;
   }
 
