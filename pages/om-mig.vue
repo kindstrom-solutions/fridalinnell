@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <h1 style="display: none;">Om mig</h1>
     <div class="big-image">
       <div class="overlay"></div>
       <div class="page-header">

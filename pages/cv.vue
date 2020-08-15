@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <h1 style="display: none;">CV</h1>
     <div class="top-images">
       <div class="image-gallery">
         <div class="image">

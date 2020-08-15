@@ -22,7 +22,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'skådespelerska / sångerska / musikalartist / Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar nu som frilansande skådespelerska och musikalartist.' },
+      { hid: 'description', name: 'description', content: 'skådespelerska / sångerska / musikalartist' },
       { hid: 'og:title', name: 'og:title', content: 'Frida Linnell' },
       { hid: 'og:description', name: 'og:description', content: 'skådespelerska / sångerska / musikalartist' },
       { hid: 'og:image', name: 'og:image', content: 'https://fridalinnell.se/og_image.jpg' },

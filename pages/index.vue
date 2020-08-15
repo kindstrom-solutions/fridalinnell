@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <h1 style="display: none;">skådespelerska / sångerska / musikalartist</h1>
     <div class="big-image">
       <img
         alt=""

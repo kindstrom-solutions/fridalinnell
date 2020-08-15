@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <h1 style="display: none;">Lyssna och titta</h1>
     <div class="y2b-grid">
       <div class="video">
         <div class="video-frame">

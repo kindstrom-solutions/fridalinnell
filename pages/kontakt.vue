@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <h1 style="display: none;">Kontakt</h1>
     <div class="contact-info">
       <div class="content">
         <h2 style="margin-bottom: 20px;">Kontakta mig</h2>
