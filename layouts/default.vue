@@ -115,7 +115,7 @@ header {
   }
 
   .site-title {
-    font-size: calc(1.4vw + 1rem);
+    font-size: calc(1.3vw + 1.3rem);
     font-weight: 500;
     letter-spacing: 0em;
     text-transform: none;
@@ -135,7 +135,7 @@ header {
     }
     
     a {
-      font-size: 16px;
+      font-size: 18px;
       font-style: normal;
       letter-spacing: 0em;
       text-transform: none;
@@ -143,6 +143,7 @@ header {
       color: #fff;
       text-decoration: none;
       backface-visibility: hidden;
+      padding-bottom: 6px;
 
       &:not(:first-child) {
         margin-left: 1.3vw;

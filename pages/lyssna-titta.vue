@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="y2b-grid" style="padding-top: 130px;">
+    <div class="y2b-grid">
       <div class="video">
         <div class="video-frame">
           <iframe
@@ -162,6 +162,13 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.container {
+  padding-top: calc(6vw + 40px);
+
+  @media screen and (min-width: 800px) {
+    padding-top: calc(3.5vw + 20px);
+  }
+}
 .y2b-grid {
   display: grid;
   grid-template-columns: 1fr;
@@ -228,7 +235,7 @@ export default {
 
 .image-gallery {
   background-color: #fff;
-  padding: 3.3vmax 8vw 60px 8vw;
+  padding: 5vmax 8vw 60px 8vw;
 
   @media screen and (min-width: 800px) {
     padding: 3.3vmax 6vw;
@@ -249,7 +256,7 @@ export default {
       }
 
       @media screen and (min-width: 1600px) {
-        height: 16vw;
+        height: 17vw;
       }
     }
     .caption {
@@ -260,8 +267,9 @@ export default {
       letter-spacing: 0em;
       text-transform: none;
       line-height: 1.8em;
-      font-size: 14px;
+      font-size: 15px;
       text-align: center;
+      margin-bottom: 6px;
     }
   }
 }
