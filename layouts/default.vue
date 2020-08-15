@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="mobile-menu" :class="{ visible: overlayVisible }">
-      <a class="closebtn" @click="hideOverlay()" style="cursor: pointer;">&times;</a>
+      <a class="closebtn" @click="hideOverlay()">&times;</a>
       <div class="overlay-content">
         <nuxt-link to="/om-mig">Om mig</nuxt-link>
         <nuxt-link to="/cv">CV</nuxt-link>
@@ -9,9 +9,9 @@
         <nuxt-link to="/kontakt">Kontakt</nuxt-link>
       </div>
     </div>
-    <header :class="textColor">
+    <header :class="textColor" :style="{ width: overlayVisible ? '50%' : '100%' }">
       <nuxt-link to="/" class="site-title">Frida Linnell</nuxt-link>
-      <div class="links">
+      <div v-if="!overlayVisible" class="links">
         <nuxt-link to="/om-mig" :class="{ active: $route.name === 'om-mig' }">Om mig</nuxt-link>
         <nuxt-link to="/cv" :class="{ active: $route.name === 'cv' }">CV</nuxt-link>
         <nuxt-link to="/lyssna-titta" :class="{ active: $route.name === 'lyssna-titta' }">Lyssna och titta</nuxt-link>
@@ -42,6 +42,9 @@ export default {
   },
   computed: {
     textColor() {
+      if (this.overlayVisible) {
+        return 'black-text'
+      }
       const route = this.$route.name
       if (route === 'cv' || route === 'lyssna-titta' || route === 'kontakt') {
         return 'black-text'
@@ -220,6 +223,8 @@ header {
     top: 0;
     right: 20px;
     font-size: 60px;
+    cursor: pointer;
+    z-index: 9000;
   }
 
   .overlay-content {
@@ -229,5 +234,106 @@ header {
     text-align: center; /* Centered text/links */
     margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
   }
+}
+
+h1, h2, h3, h4 {
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  line-height: 1.2em;
+  font-family: Cormorant Garamond;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 0em;
+  text-transform: none;
+  line-height: 1.4em;
+  font-size: 2rem
+}
+
+h1 {
+  line-height: 1.232
+}
+@media screen and (min-width: 0) and (max-width:calc(1944px - 1px)) and (orientation:landscape) {
+  h1 {
+    font-size:calc(3.6vw + 1rem)
+  }
+}
+@media screen and (min-width: 0) and (max-width:calc(1944px - 1px)) and (orientation:portrait) {
+  h1 {
+    font-size:calc(3.6vh + 1rem)
+  }
+}
+@media screen and (min-width: 1944px) {
+  h1 {
+    font-size:4rem
+  }
+}
+
+h2 {
+  line-height: 1.2992
+}
+@media screen and (min-width: 0) and (max-width:calc(1944px - 1px)) and (orientation:landscape) {
+  h2 {
+    font-size:calc(2.16vw + 1rem)
+  }
+}
+@media screen and (min-width: 0) and (max-width:calc(1944px - 1px)) and (orientation:portrait) {
+  h2 {
+    font-size:calc(2.16vh + 1rem)
+  }
+}
+@media screen and (min-width: 1944px) {
+  h2 {
+    font-size:2.8rem
+  }
+}
+
+h3 {
+  line-height: 1.3328
+}
+@media screen and (min-width: 0) and (max-width:calc(1944px - 1px)) and (orientation:landscape) {
+  h3 {
+    font-size:calc(1.44vw + 1rem)
+  }
+}
+@media screen and (min-width: 0) and (max-width:calc(1944px - 1px)) and (orientation:portrait) {
+  h3 {
+    font-size:calc(1.44vh + 1rem)
+  }
+}
+@media screen and (min-width: 1944px) {
+  h3 {
+    font-size:2.2rem
+  }
+}
+
+h4 {
+  line-height: 1.3664
+}
+@media screen and (min-width: 0) and (max-width:calc(1944px - 1px)) and (orientation:landscape) {
+  h4 {
+    font-size:calc(.72vw + 1rem)
+  }
+}
+@media screen and (min-width: 0) and (max-width:calc(1944px - 1px)) and (orientation:portrait) {
+  h4 {
+    font-size:calc(.72vh + 1rem)
+  }
+}
+@media screen and (min-width: 1944px) {
+  h4 {
+    font-size:1.6rem
+  }
+}
+
+p {
+  // font-family: adelle-sans;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  font-style: normal;
+  letter-spacing: 0em;
+  text-transform: none;
+  line-height: 1.8em;
+  line-height: 1.8;
 }
 </style>

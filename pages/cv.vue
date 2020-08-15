@@ -75,7 +75,7 @@ export default {}
     display: grid;
     grid-template-columns: 1fr;
     column-gap: 2vw;
-    row-gap: 2vw;
+    row-gap: 6vw;
 
     @media screen and (min-width: 800px) {
       grid-template-columns: 1fr 1fr;
@@ -93,10 +93,8 @@ export default {}
   }
 
   p {
-    font-family: 'Source Sans Pro', sans-serif;
     margin-bottom: 20px;
     padding: 10px 0 20px 0;
-    font-weight: 300;
   }
 }
 
@@ -112,14 +110,11 @@ export default {}
   }
 
   h4 {
-    font-size: 24px;
     margin-bottom: 32px;
   }
 
   p {
-    font-family: 'Source Sans Pro', sans-serif;
     margin-bottom: 20px;
-    font-weight: 300;
   }
 }
 

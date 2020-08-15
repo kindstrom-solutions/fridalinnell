@@ -90,15 +90,12 @@ export default {}
 
   p {
     margin-top: 10px;
-    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .about-text {
     p {
-      font-family: 'Source Sans Pro', sans-serif;
       padding-top: 20px;
       margin-bottom: 20px;
-      font-weight: 300;
 
       @media screen and (min-width: 800px) {
         padding-top: 0;

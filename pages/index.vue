@@ -39,17 +39,21 @@ export default {}
   background-image: url('/DSC_5080.jpg');
   background-size: cover;
   background-position: center;
-  padding: 6vw 4vw 4vw 4vw;
+  padding: 8vw 4vw 4vw 4vw;
+
+  @media screen and (min-width: 800px) {
+    padding: 5vw 10vw 4vw 10vw;
+  }
 
   .image-welcome {
     padding: 0 40px;
     font-size: 48px;
     color: #fff;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
   .image-text {
     padding: 0 40px;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
     font-size: 24px;
     color: #fff;
   }
@@ -75,42 +79,18 @@ export default {}
   background-color: #fff;
   font-size: calc(1.44vw + 1rem);
   text-align: center;
-
-  h3 {
-    font-weight: 500;
-    font-style: normal;
-    letter-spacing: 0em;
-    text-transform: none;
-    line-height: 1.3328;
-  }
 }
 
 .quote-section {
   display: flex;
   flex-direction: column;
-  padding: 0 calc(20vw + 1rem);
+  padding: 5vmax calc(20vw + 1rem);
   align-items: center;
   justify-content: center;
   min-height: 33vh;
-
-  h2 {
-    margin: 2rem 0;
-    text-align: center;
-    font-size: calc(2.16vw + 1rem);
-    line-height: 1.2992;
-    font-weight: 500;
-    font-style: normal;
-    letter-spacing: 0em;
-    text-transform: none;
-
-    @media screen and (min-width: 1944px) {
-      font-size: 2.8rem;
-    }
-  }
+  text-align: center;
 
   p {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 16px;
     margin: 1rem 0;
   }
 }

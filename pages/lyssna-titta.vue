@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="y2b-grid" style="padding-top: 8vw;">
+    <div class="y2b-grid" style="padding-top: 130px;">
       <div class="video">
         <div class="video-frame">
           <iframe
@@ -70,7 +70,7 @@
     </div>
     <div class="spotify-grid">
       <div class="info" style="padding-right: 80px;">
-        <h4>Närmare Kanten / Original Cast Recording</h4>
+        <h4 style="margin-bottom: 32px;">Närmare Kanten / Original Cast Recording</h4>
         <p>
           <em>Närmare Kanten</em> är en unik scenisk berättelse skriven av Martin Schaub, Patrick Rydman och Mattias Palm,
           i samarbete med Stiftelsen Gyllenkroken och Högskolan för Scen och Musik.
@@ -83,7 +83,7 @@
         id="player"
         src="https://open.spotify.com/embed/track/2NwtBu0p14IbTeUPSLNeAR?referrer=https%3A%2F%2Ffridalinnell.se%2Fphoto-gallery"
         allowfullscreen="true"
-        style="width: 100%; height: 100%;">
+        style="width: 100%;">
       </iframe>
     </div>
   </div>
@@ -97,11 +97,13 @@ export default {}
 .y2b-grid {
   display: grid;
   grid-template-columns: 1fr;
-  column-gap: 40px;
-  padding: 3.3vmax 4vw;
+  column-gap: 2vw;
+  row-gap: 6vw;
+  padding: 3.3vmax 6vw;
 
   @media screen and (min-width: 800px) {
     grid-template-columns: 1fr 1fr;
+    padding: 3.3vmax 4vw;
   }
 
   .video {
@@ -131,30 +133,14 @@ export default {}
 .quote-section {
   display: flex;
   flex-direction: column;
-  padding: 0 calc(20vw + 1rem) 16px calc(20vw + 1rem);
+  padding: 5vmax calc(20vw + 1rem);
   align-items: center;
   justify-content: center;
   min-height: 33vh;
   background-color: #fff;
-
-  h2 {
-    margin: 2rem 0;
-    text-align: center;
-    font-size: calc(2.16vw + 1rem);
-    line-height: 1.2992;
-    font-weight: 500;
-    font-style: normal;
-    letter-spacing: 0em;
-    text-transform: none;
-
-    @media screen and (min-width: 1944px) {
-      font-size: 2.8rem;
-    }
-  }
+  text-align: center;
 
   p {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 16px;
     margin: 1rem 0;
   }
 }
@@ -162,30 +148,13 @@ export default {}
 .spotify-grid {
   display: grid;
   grid-template-columns: 1fr;
-  column-gap: 40px;
-  padding: 3.3vmax 4vw;
+  column-gap: 2vw;
+  row-gap: 6vw;
+  padding: 3.3vmax 6vw;
 
   @media screen and (min-width: 800px) {
     grid-template-columns: 1fr 1fr;
-  }
-
-  h4 {
-    font-size: calc(.72vw +  1rem);
-    font-weight: 500;
-    font-style: normal;
-    letter-spacing: 0em;
-    text-transform: none;
-    margin-bottom: 32px;
-
-    @media screen and (min-width: 1944px) {
-      font-size: 1.6rem;
-    }
-  }
-
-  p {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 300;
-    font-size: 16px;
+    padding: 3.3vmax 4vw;
   }
 }
 </style>
