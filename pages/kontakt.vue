@@ -26,13 +26,14 @@ export default {}
 
 <style lang="scss" scoped>
 .contact-info {
-  padding: 120px 40px 70px 20px;
+  padding: 120px 6vw 70px 6vw;
   background-color: #fff;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
 
   @media screen and (min-width: 800px) {
-    padding: 120px 140px 70px 100px;
+    grid-template-columns: 1fr 1fr;
+    padding: 120px 4vw 70px 4vw;
   }
 
   .content {
@@ -45,6 +46,10 @@ export default {}
 
   p {
     margin-bottom: 60px;
+  }
+
+  a {
+    color: #000;
   }
 }
 </style>
