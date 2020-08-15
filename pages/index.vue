@@ -53,7 +53,7 @@ export default {}
   }
   .image-text {
     padding: 0 40px;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
     font-size: 24px;
     color: #fff;
   }

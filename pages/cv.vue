@@ -18,9 +18,9 @@
       <p>
         Foton Linda Brelin
       </p>
-      <div class="page-header">
+      <h1 class="page-header">
         CV
-      </div>
+      </h1>
     </div>
     <div class="cv-section">
       <h4>Utbildning</h4>
@@ -60,7 +60,13 @@
 </template>
 
 <script>
-export default {}
+export default {
+  head() {
+    return {
+      title: 'Frida Linnell | CV'
+    }
+  }
+}
 </script>
 
 <style lang="scss" scoped>

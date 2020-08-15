@@ -45,7 +45,13 @@
 </template>
 
 <script>
-export default {}
+export default {
+  head() {
+    return {
+      title: 'Frida Linnell | Om mig'
+    }
+  }
+}
 </script>
 
 <style lang="scss" scoped>

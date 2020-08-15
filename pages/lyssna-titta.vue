@@ -157,6 +157,11 @@ export default {
         ]
       },
     }
+  },
+  head() {
+    return {
+      title: 'Frida Linnell | Lyssna och titta'
+    }
   }
 }
 </script>
