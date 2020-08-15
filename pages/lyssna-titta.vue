@@ -143,13 +143,13 @@ export default {
         slidesToScroll: 1,
         responsive: [
           {
-            breakpoint: 1400,
+            breakpoint: 1600,
             settings: {
               slidesToShow: 2,
             }
           },
           {
-            breakpoint: 1000,
+            breakpoint: 1200,
             settings: {
               slidesToShow: 1,
             }
@@ -228,10 +228,10 @@ export default {
 
 .image-gallery {
   background-color: #fff;
-  padding: 3.3vmax 6vw;
+  padding: 3.3vmax 8vw 60px 8vw;
 
   @media screen and (min-width: 800px) {
-    padding: 3.3vmax 4vw;
+    padding: 3.3vmax 6vw;
   }
 
   .image {
@@ -240,9 +240,17 @@ export default {
     img {
       width: 100%;
       margin: auto;
-      height: 390px;
+      height: 50vw;
       object-fit: cover;
       margin-bottom: 10px;
+
+      @media screen and (min-width: 1200px) {
+        height: 25vw;
+      }
+
+      @media screen and (min-width: 1600px) {
+        height: 16vw;
+      }
     }
     .caption {
       // font-family: adelle-sans;
