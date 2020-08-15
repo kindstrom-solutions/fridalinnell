@@ -336,4 +336,8 @@ p {
   line-height: 1.8em;
   line-height: 1.8;
 }
+
+.slick-prev:before, .slick-next:before {
+  color: #000 !important;
+}
 </style>

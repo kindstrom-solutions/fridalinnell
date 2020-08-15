@@ -86,11 +86,79 @@
         style="width: 100%;">
       </iframe>
     </div>
+    <div class="image-gallery">
+      <VueSlickCarousel v-bind="carouselSettings">
+        <div class="image">
+          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/FamiljenAddams.jpg">
+          <div class="caption">Familjen Addams / Foto Glenn Rindhoff</div>
+        </div>
+        <div class="image">
+          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Smile_the_musical.jpg">
+          <div class="caption">Smile the musical / Foto Johan Schildt</div>
+        </div>
+        <div class="image">
+          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Company.jpg">
+          <div class="caption">Company / Foto Rikard Björk</div>
+        </div>
+        <div class="image">
+          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Puntilla.jpg">
+          <div class="caption">Herr Puntila och hans dräng Matti / Foto Ola Kjelbye</div>
+        </div>
+        <div class="image">
+          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Sisselsjul.jpg">
+          <div class="caption">Sissels jul 2018</div>
+        </div>
+        <div class="image">
+          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Pojkarna.jpg">
+          <div class="caption">Pojkarna / Foto Staffan Berg</div>
+        </div>
+        <div class="image">
+          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/NarmareKanten.jpg">
+          <div class="caption">Närmare Kanten / Foto Annica Engström</div>
+        </div>
+      </VueSlickCarousel>
+    </div>
   </div>
 </template>
 
 <script>
-export default {}
+import VueSlickCarousel from 'vue-slick-carousel'
+import 'vue-slick-carousel/dist/vue-slick-carousel.css'
+import 'vue-slick-carousel/dist/vue-slick-carousel-theme.css'
+
+export default {
+  components: {
+    VueSlickCarousel
+  },
+  data() {
+    return {
+      carouselSettings: {
+        arrows: true,
+        dots: true,
+        lasyLoad: 'ondemand',
+        focusOnSelect: true,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        responsive: [
+          {
+            breakpoint: 1400,
+            settings: {
+              slidesToShow: 2,
+            }
+          },
+          {
+            breakpoint: 1000,
+            settings: {
+              slidesToShow: 1,
+            }
+          }
+        ]
+      },
+    }
+  }
+}
 </script>
 
 <style lang="scss" scoped>
@@ -155,6 +223,38 @@ export default {}
   @media screen and (min-width: 800px) {
     grid-template-columns: 1fr 1fr;
     padding: 3.3vmax 4vw;
+  }
+}
+
+.image-gallery {
+  background-color: #fff;
+  padding: 3.3vmax 6vw;
+
+  @media screen and (min-width: 800px) {
+    padding: 3.3vmax 4vw;
+  }
+
+  .image {
+    padding: 0 20px;
+    
+    img {
+      width: 100%;
+      margin: auto;
+      height: 390px;
+      object-fit: cover;
+      margin-bottom: 10px;
+    }
+    .caption {
+      // font-family: adelle-sans;
+      font-family: 'Source Sans Pro', sans-serif;
+      font-weight: 300;
+      font-style: normal;
+      letter-spacing: 0em;
+      text-transform: none;
+      line-height: 1.8em;
+      font-size: 14px;
+      text-align: center;
+    }
   }
 }
 </style>
