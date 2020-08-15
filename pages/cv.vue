@@ -16,7 +16,7 @@
         </div>
       </div>
       <p>
-        Foton: Linda Brelin
+        Foton Linda Brelin
       </p>
       <div class="page-header">
         CV
@@ -36,6 +36,7 @@
       <p>2017 / Familjen Addams / Gammelmor / Kolhusteatern</p>
       <p>2016 / Stand-in-Artist Eurovision Song Contest / 1944 av Jamala / Globen (SVT)</p>
       <h4 style="margin-top: 60px;">Scenisk erfarenhet under utbildning</h4>
+      <p>2020 / Delar ur <a href="https://www.scenfilm.se/2020/06/15/sorg-och-besvikelse-blev-till-kreativitet-vid-musikalutbildningen/">Tänk/Om</a> / Betty / Högskolan för Scen och Musik</p>
       <p>2019 / <a href="https://www.facebook.com/pojkarnamusikalen/">Pojkarna</a> (Reading) / Momo / GöteborgsOperan</p>
       <p>2019 / <a href="https://musicalbridges.se/">Närmare Kanten</a> / Isabelle / Högskolan för Scen och Musik</p>
       <p>2018 / K+M+R+L / Linda / Högskolan för Scen och Musik</p>
