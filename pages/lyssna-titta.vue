@@ -1,6 +1,13 @@
 <template>
   <div class="container">
     <h1 style="display: none;">Lyssna och titta</h1>
+    <video autoplay muted loop class="bg-video">
+      <source src="/Frida_Final.mp4" type="video/mp4">
+    </video>
+    <div class="page-header">
+      Lyssna och titta
+    </div>
+
     <div class="y2b-grid">
       <div class="video">
         <div class="video-frame">
@@ -33,10 +40,12 @@
         </p>
       </div>
     </div>
+
     <div class="quote-section">
       <h2>“Frida Linnell river ner applåder långt innan hon har sjungit klart, och är glimrande i minirollen fru Gyllenstjärna”</h2>
       <p>— Aftonbladet</p>
     </div>
+
     <div class="y2b-grid">
       <div class="video">
         <div class="video-frame">
@@ -69,6 +78,7 @@
         </p>
       </div>
     </div>
+
     <div class="spotify-grid">
       <div class="info" style="padding-right: 80px;">
         <h4 style="margin-bottom: 32px;">Närmare Kanten / Original Cast Recording</h4>
@@ -87,6 +97,7 @@
         style="width: 100%;">
       </iframe>
     </div>
+
     <div class="image-gallery">
       <VueSlickCarousel v-bind="carouselSettings">
         <div class="image">
@@ -168,13 +179,25 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.container {
-  padding-top: calc(6vw + 40px);
+.bg-video {
+  height: 100vh;
+  width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+
+.page-header {
+  position: absolute;
+  left: 6vw;
+  bottom: 50px;
+  font-size: 52px;
+  color: #fff;
 
   @media screen and (min-width: 800px) {
-    padding-top: calc(3.5vw + 20px);
+    left: 4vw;
   }
 }
+
 .y2b-grid {
   display: grid;
   grid-template-columns: 1fr;

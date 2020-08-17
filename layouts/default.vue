@@ -46,7 +46,7 @@ export default {
         return 'black-text'
       }
       const route = this.$route.name
-      if (route === 'cv' || route === 'lyssna-titta' || route === 'kontakt') {
+      if (route === 'cv' || route === 'kontakt') {
         return 'black-text'
       } else {
         return ''
