@@ -61,6 +61,10 @@ export default {}
     padding: 5vw 10vw 4vw 10vw;
   }
 
+  @media screen and (min-width: 1400px) {
+    padding: 5vw 6vw 4vw 71%;
+  }
+
   .info-box {
     padding: 40px 40px 55px 40px;
     background-color: #fff;
