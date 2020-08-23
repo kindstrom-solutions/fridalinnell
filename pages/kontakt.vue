@@ -17,6 +17,8 @@
         </p>
       </div>
       <img src="/DSC_4970.jpg"/>
+      <p></p>
+      <p>Foton Linda Brelin</p>
     </div>
   </div>
 </template>

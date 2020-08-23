@@ -10,7 +10,7 @@
     <div class="text-section">
       <h3>skådespelerska / sångerska / musikalartist</h3>
     </div>
-    <div class="big-image info-section">
+    <div class="big-image info-section expand" style="position: relative;">
       <div class="info-box">
         <div class="box-welcome">
           Välkommen
@@ -21,6 +21,7 @@
         </div>
         <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>
+      <p style="position: absolute; bottom: 10px; right: 16px; color: #fff;">Foton Linda Brelin</p>
     </div>
     <div class="quote-section">
       <h2>“I Frida Linnell bor en framtida musikalstjärna helt klart”</h2>
@@ -36,29 +37,41 @@ export default {}
 <style lang="scss" scoped>
 .big-image {
   height: 100vh;
+
+  &.expand {
+    height: 200vh;
+
+    @media screen and (min-width: 400px) {
+      height: 150vh;
+    }
+
+    @media screen and (min-width: 800px) {
+      height: 100vh;
+    }
+  }
 }
 
 .info-section {
   background-image: url('/DSC_5080.jpg');
   background-size: cover;
   background-position: center;
-  padding: 8vw 4vw 4vw 4vw;
+  padding: 8vw 6vw 4vw 6vw;
 
   @media screen and (min-width: 800px) {
     padding: 5vw 10vw 4vw 10vw;
   }
 
   .info-box {
-    padding: 40px;
+    padding: 40px 40px 55px 40px;
     background-color: #fff;
     
     .box-welcome {
-      font-size: 48px;
+      font-size: 40px;
       color: #000;
       margin-bottom: 30px;
 
       @media screen and (min-width: 350px) {
-        font-size: 36px;
+        font-size: 48px;
       }
     }
     .box-text {
@@ -74,7 +87,6 @@ export default {}
     }
     .box-button {
       font-family: 'Source Sans Pro', sans-serif;
-      // margin: 0 40px;
       padding: 16px;
       width: 104px;
       border-radius: 4px;
