@@ -70,14 +70,14 @@ export default {
   ** Nuxt.js dev-modules
   */
   buildModules: [
-    ['@nuxtjs/google-analytics', {
-      id: 'UA-176124375-1'
-    }]
   ],
   /*
   ** Nuxt.js modules
   */
   modules: [
+    ['@nuxtjs/google-gtag', {
+      id: 'UA-176124375-1'
+    }]
   ],
   /*
   ** Build configuration
