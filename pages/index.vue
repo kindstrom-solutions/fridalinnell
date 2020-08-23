@@ -11,14 +11,16 @@
       <h3>skådespelerska / sångerska / musikalartist</h3>
     </div>
     <div class="big-image info-section">
-      <div class="image-welcome">
-        Välkommen
+      <div class="info-box">
+        <div class="box-welcome">
+          Välkommen
+        </div>
+        <div class="box-text">
+          Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar nu som frilansande skådespelerska och musikalartist.
+          Frida sågs senast i läsningen av den nyskrivna musikalen Kära Anna i rollen som Alex, i samband med Musikalsymposiet på Smålands Musik och Teater i maj 2020.
+        </div>
+        <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>
-      <div class="image-text">
-        Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar nu som frilansande skådespelerska och musikalartist.
-        Frida sågs senast i läsningen av den nyskrivna musikalen Kära Anna i rollen som Alex, i samband med Musikalsymposiet på Smålands Musik och Teater i maj 2020.
-      </div>
-      <nuxt-link to="/om-mig" class="image-button">Om mig</nuxt-link>
     </div>
     <div class="quote-section">
       <h2>“I Frida Linnell bor en framtida musikalstjärna helt klart”</h2>
@@ -46,29 +48,42 @@ export default {}
     padding: 5vw 10vw 4vw 10vw;
   }
 
-  .image-welcome {
-    padding: 0 40px;
-    font-size: 48px;
-    color: #fff;
-    margin-bottom: 30px;
-  }
-  .image-text {
-    padding: 0 40px;
-    margin-bottom: 50px;
-    font-size: 24px;
-    color: #fff;
-  }
-  .image-button {
-    font-family: 'Source Sans Pro', sans-serif;
-    margin: 0 40px;
-    padding: 16px;
-    width: 104px;
-    border-radius: 4px;
-    font-size: 20px;
-    color: #fff;
-    background-color: #f08e80;
-    border-color: #f08e80;
-    text-decoration: none;
+  .info-box {
+    padding: 40px;
+    background-color: #fff;
+    
+    .box-welcome {
+      font-size: 48px;
+      color: #000;
+      margin-bottom: 30px;
+
+      @media screen and (min-width: 350px) {
+        font-size: 36px;
+      }
+    }
+    .box-text {
+      font-family: 'Source Sans Pro', sans-serif;
+      font-weight: 300;
+      margin-bottom: 50px;
+      font-size: 18px;
+      color: #000;
+
+      @media screen and (min-width: 350px) {
+        font-size: 24px;
+      }
+    }
+    .box-button {
+      font-family: 'Source Sans Pro', sans-serif;
+      // margin: 0 40px;
+      padding: 16px;
+      width: 104px;
+      border-radius: 4px;
+      font-size: 20px;
+      color: #fff;
+      background-color: #f08e80;
+      border-color: #f08e80;
+      text-decoration: none;
+    }
   }
 }
 
