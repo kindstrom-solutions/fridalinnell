@@ -86,7 +86,7 @@ export default {}
       color: #000;
 
       @media screen and (min-width: 350px) {
-        font-size: 24px;
+        font-size: 20px;
       }
     }
     .box-button {
