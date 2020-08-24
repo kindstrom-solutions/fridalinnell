@@ -62,7 +62,7 @@ export default {}
   }
 
   @media screen and (min-width: 1400px) {
-    padding: 5vw 6vw 4vw 71%;
+    padding: 5vw 60% 4vw 6vw;
   }
 
   .info-box {
