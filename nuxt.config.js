@@ -25,7 +25,7 @@ export default {
       { name: 'msapplication-TileColor', content: '#75A08C' },
       { name: 'msapplication-TileImage', content: '/ms-icon-144x144.png' },
       { name: 'theme-color', content: '#75A08C' },
-      { hid: 'description', name: 'description', content: 'skådespelerska / sångerska / musikalartist' },
+      { hid: 'description', name: 'description', content: 'Frida Linnell - skådespelerska / sångerska / musikalartist' },
       { hid: 'og:title', name: 'og:title', content: 'Frida Linnell' },
       { hid: 'og:description', name: 'og:description', content: 'skådespelerska / sångerska / musikalartist' },
       { hid: 'og:image', name: 'og:image', content: 'https://fridalinnell.se/og_image.jpg' },
