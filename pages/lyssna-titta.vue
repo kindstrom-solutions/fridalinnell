@@ -188,14 +188,17 @@ export default {
 
 .page-header {
   position: absolute;
-  left: 6vw;
-  bottom: 50px;
-  font-size: 52px;
+  left: 8vw;
+  bottom: 45vh;
+  font-size: 54px;
   color: #fff;
 
-  @media screen and (min-width: 800px) {
-    left: 4vw;
-  }
+  @media screen and (min-width: 400px) { left: 17vw; }
+  @media screen and (min-width: 600px) { left: 24vw; }
+  @media screen and (min-width: 800px) { left: 35vw; }
+  @media screen and (min-width: 1200px) { left: 38vw; }
+  @media screen and (min-width: 1500px) { left: 41vw; }
+  @media screen and (min-width: 2000px) { left: 44vw; }
 }
 
 .y2b-grid {
