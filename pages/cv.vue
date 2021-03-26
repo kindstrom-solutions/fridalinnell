@@ -23,6 +23,15 @@
         CV
       </h1>
     </div>
+    <div class="other-section">
+      <p>Röst / Sopran</p>
+      <p>Födelseår / 1994</p>
+      <p>Längd / 168 cm</p>
+      <p>Språk / Svenska, engelska, enklare spanska</p>
+      <p>Dialekt / Östgötska, scensvenska</p>
+      <p>Dans / God dansare och behärskar jazz och balett mycket väl. Behärskar även enklare modern, stepp och street</p>
+      <p>Övrigt / Gymnastik, notläsning, självlärd på gitarr, B-körkort</p>
+    </div>
     <div class="cv-section">
       <h4>Utbildning</h4>
       <p>2017 - 2020 / Konstnärlig kandidatutbildning i musikal / Högskolan för Scen och Musik, Göteborg</p>
@@ -36,6 +45,9 @@
       <p>2018 / Sissel Kyrkjebö’s Jul 2018 / Gästsolist / Lisebergshallen</p>
       <p>2017 / Familjen Addams / Gammelmor / Kolhusteatern</p>
       <p>2016 / Stand-in-Artist Eurovision Song Contest / 1944 av Jamala / Globen (SVT)</p>
+      <h4 style="margin-top: 60px;">Yrkeserfarenhet</h4>
+      <p>2021 / TBA (svensk röst) / Warner Bros. SDI Media</p>
+      <p>2020 / <a href="https://se.hbonordic.com/kids/movies/onsketradet/1f10ced-013a36f3e50">The Wishmas Tree</a> / Petra (svensk röst) / SDI Media</p>
       <h4 style="margin-top: 60px;">Scenisk erfarenhet under utbildning</h4>
       <p>2020 / Delar ur <a href="https://www.scenfilm.se/2020/06/15/sorg-och-besvikelse-blev-till-kreativitet-vid-musikalutbildningen/">Tänk/Om</a> / Betty / Högskolan för Scen och Musik</p>
       <p>2019 / <a href="https://www.facebook.com/pojkarnamusikalen/">Pojkarna</a> (Reading) / Momo / GöteborgsOperan</p>
@@ -48,14 +60,9 @@
       <p>2016 / Heathers / Ensemble / Kulturama</p>
       <p>2014 / A Little Night Music / Anne Egerman / Associated Studios</p>
     </div>
-    <div class="other-section">
-      <p>Röst / Sopran</p>
-      <p>Födelseår / 1994</p>
-      <p>Längd / 168 cm</p>
-      <p>Språk / Svenska, engelska, enklare spanska</p>
-      <p>Dialekt / Östgötska, scensvenska</p>
-      <p>Dans / God dansare och behärskar jazz och balett mycket väl. Behärskar även enklare modern, stepp och street</p>
-      <p>Övrigt / Gymnastik, notläsning, självlärd på gitarr, B-körkort</p>
+    <div class="continuing-section">
+      <h4>Fortbildning</h4>
+      <p>Jazzlinjen JAM Studio / Södertörns Folkhögskola</p>
     </div>
   </div>
 </template>
@@ -110,11 +117,28 @@ export default {
   font-size: 52px;
 }
 
-.cv-section, .scene-section, .other-section {
+.cv-section, .scene-section, .continuing-section {
   padding: 70px 6vw;
 
   @media screen and (min-width: 800px) {
     padding: 70px 4vw;
+  }
+
+  h4 {
+    margin-bottom: 32px;
+  }
+
+  p {
+    margin-bottom: 20px;
+  }
+}
+
+.other-section {
+  background-color: #fff;
+  padding: 20px 6vw 70px 6vw;
+
+  @media screen and (min-width: 800px) {
+    padding: 20px 4vw 70px 4vw;
   }
 
   h4 {
