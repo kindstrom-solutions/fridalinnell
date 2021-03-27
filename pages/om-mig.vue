@@ -29,7 +29,7 @@
         </p>
         <p>
           Under hela min kärlekshistoria med scenkonsten har jag provat på både det ena och det andra, och mitt fokus har således blivit att hålla blicken bred utan att tumma på mina konstnärliga värderingar. Förutom en hel rad varierande musikaluppsättningar, hade
-          jag exempelvis den annorlunda förmånen att som musikalstudent göra praktik i Bertolt Brechts <em>Herr Puntila och hans Dräng Matti </em>på Göteborgs Stadsteater under 2019/2020. Jag har också flitig engagerat mig i
+          jag exempelvis den annorlunda förmånen att som musikalstudent göra praktik i Bertolt Brechts <em>Herr Puntila och hans dräng Matti </em>på Göteborgs Stadsteater under 2019/2020. Jag har också flitig engagerat mig i
           <em>Musikalplattforms</em> vision om att lyfta fram nyskriven svensk musikal - där jag under Musikalsymposiet 2020 på Smålands Musik och Teater, gjorde den mycket
           uppskattade insatsen som Alex i musikalen <em>Kära Anna </em>skriven av Oscar Collin och Pia Ternström. Nuförtiden arbetar jag dessutom i studion med röstjobb i form av dubbning och
           röstskådespeleri. I framtiden hoppas jag kunna ta min gestaltning till nya miljöer där jag kan
@@ -42,7 +42,7 @@
           hålla på med skådespeleri.    
         </p>
         <p>
-          Hösten 2020 skulle jag synts som både Hjärter Dam och Påskharen på Kristianstad Teater i Underhållningspatrullens uppsättning av <em>Alice i Underlandet</em>, men pga. rådande samhällssituation blir föreställningen dessvärre inställd.
+          Hösten 2020 skulle jag synts som både Hjärter Dam och Påskharen på Kristianstad Teater i Underhållningspatrullens uppsättning av <em>Alice i Underlandet</em>, men pga. rådande samhällssituation blev föreställningen dessvärre inställd.
           Läs mer <a href="https://www.underhallningspatrullen.se/forestallning/Alice-i-Underlandet">här</a>.
         </p>
       </div>

@@ -29,7 +29,7 @@
       <p>Längd / 168 cm</p>
       <p>Språk / Svenska, engelska, enklare spanska</p>
       <p>Dialekt / Östgötska, scensvenska</p>
-      <p>Dans / God dansare och behärskar jazz, modern och balett mycket väl. </p>
+      <p>Dans / God dansare och behärskar jazz, modern och balett mycket väl </p>
       <p>Övrigt / Gymnastik, notläsning, självlärd på gitarr, B-körkort</p>
     </div>
     <div class="cv-section">
