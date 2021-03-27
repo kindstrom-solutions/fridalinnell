@@ -18,23 +18,28 @@
       </div>
       <div class="about-text">
         <p>
-          Jag är Frida. Uppvuxen på schlätten utanför Linköping och har numera min bas i Stockholm. Jag är utbildad musikalartist vid Högskolan för Scen och Musik i Göteborg och även från musikalartistutbildningen på Kulturama i Stockholm. Min
-          allra första professionella träning gjorde jag under ett år i London vid Associated Studios Full-time Intensive Diploma in Musical Theatre.
+          Jag är Frida. Uppvuxen på schlätten utanför Linköping och har numera min bas i Stockholm.
+          Jag är utbildad vid Högskolan för Scen och Musik i Göteborg, och även från förberedande
+          utbildningar både på Kulturama i Stockholm och vid Associated Studios i London.</p>
+        <p>
+          På pappret musikalartist, javisst men, sjungande skådespelerska – så brukar jag hellre uttrycka det,
+          eftersom min konstnärliga passion ligger i skådespeleriet. Det var även där mitt intresse för
+          scenkonst startade för snart sisådär tjugo år sedan, då jag varje fredagseftermiddag lekte
+          rövare i en av Linköpings amatörteatergrupper.
         </p>
         <p>
-          Musikalartist, javisst men, sjungande skådespelerska - så brukar jag hellre uttrycka det, eftersom min konstnärliga passion ligger i skådespeleriet. Det var även så mitt intresse för scenkonst startade för snart sisådär tjugo år sedan,
-          då jag lekte rövare i en av Linköpings amatörteatergrupper varje fredagseftermiddag. Mitt möte med musikal kom först senare i livet men sedan dess har vår kärleksrelation minst sagt spirat. Det har varit en lång och tuff väg, men jag är
-          idag stolt över att kalla mig själv frilansande skådespelerska och musikalartist.
+          Under hela min kärlekshistoria med scenkonsten har jag provat på både det ena och det andra, och mitt fokus har således blivit att hålla blicken bred utan att tumma på mina konstnärliga värderingar. Förutom en hel rad varierande musikaluppsättningar, hade
+          jag exempelvis den annorlunda förmånen att som musikalstudent göra praktik i Bertolt Brechts <em>Herr Puntila och hans Dräng Matti </em>på Göteborgs Stadsteater under 2019/2020. Jag har också flitig engagerat mig i
+          <em>Musikalplattforms</em> vision om att lyfta fram nyskriven svensk musikal - där jag under Musikalsymposiet 2020 på Smålands Musik och Teater, gjorde den mycket
+          uppskattade insatsen som Alex i musikalen <em>Kära Anna </em>skriven av Oscar Collin och Pia Ternström. Nuförtiden arbetar jag dessutom i studion med röstjobb i form av dubbning och
+          röstskådespeleri. I framtiden hoppas jag kunna ta min gestaltning till nya miljöer där jag kan
+          få chansen att filma.
         </p>
         <p>
-          Under mina utbildningsår har jag provat på både det ena och det andra, och mitt fokus har således blivit att hålla blicken bred utan att tumma på mina konstnärliga värderingar. Förutom en hel rad varierande musikaluppsättningar, hade
-          jag exempelvis den annorlunda förmånen att som musikalstudent göra praktik i föreställningen av Bertolt Brechts <em>Herr Puntila och hans Dräng Matti </em>på Göteborgs Stadsteater under 2019/2020. Jag har också flitig engagerat mig i
-          <em>Musikalplattforms</em> vision om att lyfta fram nyskriven svensk musikal - där jag senast gjorde mitt första jobb i form av insatsen som Alex i musikalen <em>Kära Anna </em>skriven av Oscar Collin och Pia Ternström. I framtiden
-          hoppas jag kunna ta min gestaltning till nya miljöer så som inom röstskådespeleri och dubbning.
-        </p>
-        <p>
-          Jag är hopplöst kär i det sceniska uttrycket. Det bara är så. Jag är ett funny bone, en dramaqueen och ett känslospröt förkroppsligat i en och samma lyxförpackning, med varsam hänsyn till textens myriader av möjligheter för den lycklige
-          som får hålla på med skådespeleri.
+          Jag är hopplöst kär i gestaltning och det sceniska uttrycket. Det bara är så. Jag är ett funny
+          bone, en drama queen och ett känslospröt förkroppsligat i en och samma lyxförpackning,
+          med varsam hänsyn till textens myriader av möjligheter, som finns för den lycklige som får
+          hålla på med skådespeleri.    
         </p>
         <p>
           Hösten 2020 skulle jag synts som både Hjärter Dam och Påskharen på Kristianstad Teater i Underhållningspatrullens uppsättning av <em>Alice i Underlandet</em>, men pga. rådande samhällssituation blir föreställningen dessvärre inställd.

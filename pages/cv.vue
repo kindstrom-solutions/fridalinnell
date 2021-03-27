@@ -29,7 +29,7 @@
       <p>Längd / 168 cm</p>
       <p>Språk / Svenska, engelska, enklare spanska</p>
       <p>Dialekt / Östgötska, scensvenska</p>
-      <p>Dans / God dansare och behärskar jazz och balett mycket väl. Behärskar även enklare modern, stepp och street</p>
+      <p>Dans / God dansare och behärskar jazz, modern och balett mycket väl. </p>
       <p>Övrigt / Gymnastik, notläsning, självlärd på gitarr, B-körkort</p>
     </div>
     <div class="cv-section">
@@ -39,15 +39,14 @@
       <p>2014 / 1 Year Full-time Intensive Diploma in Musical Theatre / Associated Studios, London</p>
     </div>
     <div class="scene-section">
-      <h4>Scenisk erfarenhet</h4>
+      <h4>Yrkeserfarenhet</h4>
+      <p>2021 / TBA (svensk röst) / Warner Bros. SDI Media</p>
+      <p>2020 / <a href="https://se.hbonordic.com/kids/movies/onsketradet/1f10ced-013a36f3e50">The Wishmas Tree</a> / Petra (svensk röst) / SDI Media</p>
       <p>2020 / <a href="https://www.facebook.com/karaannamusikalen/">Kära Anna</a> (Reading) / Alex / Smålands Musik och Teater</p>
       <p>2019/2020 / <a href="https://stadsteatern.goteborg.se/pa-scen/2019-2020/herr-puntila-och-hans-drang-matti/">Herr Puntila och hans dräng Matti</a> / Husan Fina, Lagårdspigan, Fru Gyllenstjärna / Göteborgs Stadsteater</p>
       <p>2018 / Sissel Kyrkjebö’s Jul 2018 / Gästsolist / Lisebergshallen</p>
       <p>2017 / Familjen Addams / Gammelmor / Kolhusteatern</p>
       <p>2016 / Stand-in-Artist Eurovision Song Contest / 1944 av Jamala / Globen (SVT)</p>
-      <h4 style="margin-top: 60px;">Yrkeserfarenhet</h4>
-      <p>2021 / TBA (svensk röst) / Warner Bros. SDI Media</p>
-      <p>2020 / <a href="https://se.hbonordic.com/kids/movies/onsketradet/1f10ced-013a36f3e50">The Wishmas Tree</a> / Petra (svensk röst) / SDI Media</p>
       <h4 style="margin-top: 60px;">Scenisk erfarenhet under utbildning</h4>
       <p>2020 / Delar ur <a href="https://www.scenfilm.se/2020/06/15/sorg-och-besvikelse-blev-till-kreativitet-vid-musikalutbildningen/">Tänk/Om</a> / Betty / Högskolan för Scen och Musik</p>
       <p>2019 / <a href="https://www.facebook.com/pojkarnamusikalen/">Pojkarna</a> (Reading) / Momo / GöteborgsOperan</p>
