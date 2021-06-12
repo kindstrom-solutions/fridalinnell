@@ -29,7 +29,7 @@
       <p>Längd / 168 cm</p>
       <p>Språk / Svenska, engelska, enklare spanska</p>
       <p>Dialekt / Östgötska, scensvenska</p>
-      <p>Dans / God dansare och behärskar jazz, modern och balett mycket väl </p>
+      <p>Dans / God dansare och behärskar jazz, modern och balett mycket väl   </p>
       <p>Övrigt / Gymnastik, notläsning, självlärd på gitarr, B-körkort</p>
     </div>
     <div class="cv-section">
@@ -40,7 +40,9 @@
     </div>
     <div class="scene-section">
       <h4>Yrkeserfarenhet</h4>
-      <p>2021 / TBA (svensk röst) / Warner Bros. SDI Media</p>
+      <p>2021 / Centaurworld / flera karaktärer (svensk röst & sång) / SDI Media</p>
+      <p>2021 / Barbie TV-Movie / Emmie (svensk röst) / SDI Media</p>
+      <p>2021 / Tom &amp; Jerry / Lola (svensk röst) / Warner Bros. SDI Media</p>
       <p>2020 / <a href="https://se.hbonordic.com/kids/movies/onsketradet/1f10ced-013a36f3e50">The Wishmas Tree</a> / Petra (svensk röst) / SDI Media</p>
       <p>2020 / <a href="https://www.facebook.com/karaannamusikalen/">Kära Anna</a> (Reading) / Alex / Smålands Musik och Teater</p>
       <p>2019/2020 / <a href="https://stadsteatern.goteborg.se/pa-scen/2019-2020/herr-puntila-och-hans-drang-matti/">Herr Puntila och hans dräng Matti</a> / Husan Fina, Lagårdspigan, Fru Gyllenstjärna / Göteborgs Stadsteater</p>

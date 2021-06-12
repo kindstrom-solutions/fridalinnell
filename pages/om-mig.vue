@@ -42,8 +42,8 @@
           hålla på med skådespeleri.    
         </p>
         <p>
-          Hösten 2020 skulle jag synts som både Hjärter Dam och Påskharen på Kristianstad Teater i Underhållningspatrullens uppsättning av <em>Alice i Underlandet</em>, men pga. rådande samhällssituation blev föreställningen dessvärre inställd.
-          Läs mer <a href="https://www.underhallningspatrullen.se/forestallning/Alice-i-Underlandet">här</a>.
+          Sommaren 2021 medverkar jag i den historiska föreställningen  <em>Historien får liv</em> på Fredriksdal
+          i Helsingborg.
         </p>
       </div>
     </div>

@@ -16,8 +16,11 @@
           Välkommen
         </div>
         <div class="box-text">
-          Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar nu som frilansande skådespelerska inom flera scenkonstområden.
-          Frida sågs senast i läsningen av den nyskrivna musikalen Kära Anna i rollen som Alex, i samband med Musikalsymposiet på Smålands Musik och Teater i maj 2020.
+          Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar nu som
+          frilansande skådespelerska inom flera konstnärliga områden. Frida sågs senast i läsningen av
+          den nyskrivna musikalen <em>Kära Anna</em> i rollen som Alex, i samband med Musikalsymposiet på
+          Smålands Musik och Teater i maj 2020. Sommaren 2021 medverkar hon i den historiska
+          föreställningen <em>Historien får liv</em> på Fredriksdal i Helsingborg.
         </div>
         <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>
