@@ -19,8 +19,10 @@
           Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar nu som
           frilansande skådespelerska inom flera konstnärliga områden. Frida sågs senast i läsningen av
           den nyskrivna musikalen <em>Kära Anna</em> i rollen som Alex, i samband med Musikalsymposiet på
-          Smålands Musik och Teater i maj 2020. Sommaren 2021 medverkar hon i den historiska
-          föreställningen <em>Historien får liv</em> på Fredriksdal i Helsingborg.
+          Smålands Musik och Teater i maj 2020. Under sommaren 2021 medverkar hon i den historiska
+          föreställningen <em>Signes val</em> i Historien får liv på Fredriksdal i Helsingborg.
+          Följande höst är Frida aktuell i <em>Alice i Underlandet</em> på Kristianstad Teater i rollen som Hjärter
+          Dam.
         </div>
         <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>

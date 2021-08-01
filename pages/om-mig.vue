@@ -42,8 +42,9 @@
           hålla på med skådespeleri.    
         </p>
         <p>
-          Sommaren 2021 medverkar jag i den historiska föreställningen  <em>Historien får liv</em> på Fredriksdal
-          i Helsingborg.
+          Sommaren 2021 medverkar jag i den historiska föreställningen <em>Signes val</em>  i Historien får Liv
+          på Fredriksdal i Helsingborg, och fortsätter i höst i produktionen av <em>Alice i Underlandet</em> på
+          Kristianstad Teater i rollen som Hjärter Dam. 
         </p>
       </div>
     </div>

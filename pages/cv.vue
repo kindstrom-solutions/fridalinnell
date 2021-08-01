@@ -40,7 +40,8 @@
     </div>
     <div class="scene-section">
       <h4>Yrkeserfarenhet</h4>
-      <p>2021 / Centaurworld / flera karaktärer (svensk röst & sång) / SDI Media</p>
+      <p>2021 / Signes val (Historien får liv) / flera roller / Fredriksdal i Helsingborg </p>
+      <p>2021 / <a href="https://www.netflix.com/watch/81048667?trackId=200257859">Centaurworld</a>  / Valtaur, kattaur (svensk röst & sång) / SDI Media</p>
       <p>2021 / Barbie TV-Movie / Emmie (svensk röst) / SDI Media</p>
       <p>2021 / Tom &amp; Jerry / Lola (svensk röst) / Warner Bros. SDI Media</p>
       <p>2020 / <a href="https://se.hbonordic.com/kids/movies/onsketradet/1f10ced-013a36f3e50">The Wishmas Tree</a> / Petra (svensk röst) / SDI Media</p>

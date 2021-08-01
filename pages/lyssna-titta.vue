@@ -101,6 +101,10 @@
     <div class="image-gallery">
       <VueSlickCarousel v-bind="carouselSettings">
         <div class="image">
+          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Signesval.JPG">
+          <div class="caption"> Signes val / Historien får liv</div> 
+        </div>
+        <div class="image">
           <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/FamiljenAddams.jpg">
           <div class="caption">Familjen Addams / Foto Glenn Rindhoff</div>
         </div>
