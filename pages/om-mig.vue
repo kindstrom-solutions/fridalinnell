@@ -44,7 +44,7 @@
         <p>
           Sommaren 2021 medverkar jag i den historiska föreställningen <em>Signes val</em>  i Historien får Liv
           på Fredriksdal i Helsingborg, och fortsätter i höst i produktionen av <em>Alice i Underlandet</em> på
-          Kristianstad Teater i rollen som Hjärter Dam. 
+          Kristianstad Teater i rollen som Hjärter Dam. Läs mer <a href="https://www.underhallningspatrullen.se/forestallning/Alice-i-Underlandet">här</a>.
         </p>
       </div>
     </div>
