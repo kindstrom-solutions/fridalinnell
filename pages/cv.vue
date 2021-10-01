@@ -5,7 +5,7 @@
       <div class="image-gallery">
         <div class="image">
           <img
-            alt="Foton Linda Brelin"
+            alt="Foto Linda Brelin"
             style="width: 100%; height: 100%; object-position: 49% 0%; object-fit: cover;"
             src="/DSC_5121.jpg">
         </div>
@@ -17,7 +17,7 @@
         </div>
       </div>
       <p>
-        Foton Linda Brelin
+        Foto Linda Brelin
       </p>
       <h1 class="page-header">
         CV
@@ -40,6 +40,7 @@
     </div>
     <div class="scene-section">
       <h4>Yrkeserfarenhet</h4>
+      <p>2021 / <a href="https://www.underhallningspatrullen.se/forestallning/Alice-i-Underlandet">Alice i Underlandet</a> / Hjärter Dam, Påskharen / Kristianstad Teater </p>
       <p>2021 / Signes val (Historien får liv) / flera roller / Fredriksdal i Helsingborg </p>
       <p>2021 / <a href="https://www.netflix.com/watch/81048667?trackId=200257859">Centaurworld</a>  / Valtaur, kattaur (svensk röst & sång) / SDI Media</p>
       <p>2021 / Barbie TV-Movie / Emmie (svensk röst) / SDI Media</p>

@@ -14,7 +14,7 @@
     <div class="about-section">
       <div class="photo">
         <img src="/DSC_4891.jpg">
-        <p>Foton Linda Brelin</p>
+        <p>Foto Linda Brelin</p>
       </div>
       <div class="about-text">
         <p>
@@ -44,7 +44,7 @@
         <p>
           Sommaren 2021 medverkar jag i den historiska föreställningen <em>Signes val</em>  i Historien får Liv
           på Fredriksdal i Helsingborg, och fortsätter i höst i produktionen av <em>Alice i Underlandet</em> på
-          Kristianstad Teater i rollen som Hjärter Dam. Läs mer <a href="https://www.underhallningspatrullen.se/forestallning/Alice-i-Underlandet">här</a>.
+          Kristianstad Teater i rollen som bl.a. Hjärter Dam. Läs mer <a href="https://www.underhallningspatrullen.se/forestallning/Alice-i-Underlandet">här</a>.
         </p>
       </div>
     </div>

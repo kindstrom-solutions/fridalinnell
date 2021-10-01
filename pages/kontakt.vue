@@ -18,7 +18,7 @@
       </div>
       <img src="/DSC_4970.jpg"/>
       <p></p>
-      <p>Foton Linda Brelin</p>
+      <p>Foto Linda Brelin</p>
     </div>
   </div>
 </template>

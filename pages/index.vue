@@ -21,12 +21,12 @@
           den nyskrivna musikalen <em>Kära Anna</em> i rollen som Alex, i samband med Musikalsymposiet på
           Smålands Musik och Teater i maj 2020. Under sommaren 2021 medverkar hon i den historiska
           föreställningen <em>Signes val</em> i Historien får liv på Fredriksdal i Helsingborg.
-          Följande höst är Frida aktuell i <em>Alice i Underlandet</em> på Kristianstad Teater i rollen som Hjärter
+          Följande höst är Frida aktuell i <em>Alice i Underlandet</em> på Kristianstad Teater i rollen som bl.a. Hjärter
           Dam.
         </div>
         <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>
-      <p style="position: absolute; bottom: 10px; right: 16px; color: #fff;">Foton Linda Brelin</p>
+      <p style="position: absolute; bottom: 10px; right: 16px; color: #fff;">Foto Linda Brelin / Håkan Röjder</p>
     </div>
     <div class="quote-section">
       <h2>“I Frida Linnell bor en framtida musikalstjärna helt klart”</h2>
@@ -57,7 +57,7 @@ export default {}
 }
 
 .info-section {
-  background-image: url('/DSC_5080.jpg');
+  background-image: url('/Hjärterdam.jpg');
   background-size: cover;
   background-position: center;
   padding: 8vw 6vw 4vw 6vw;
