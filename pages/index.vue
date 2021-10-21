@@ -5,7 +5,7 @@
       <img
         alt=""
         style="display: block; width: 100%; height: 100%; object-position: 69.9098% 0%; object-fit: cover;"
-        src="/DSC_4894.jpg">
+        src="/23.jpg">
     </div>
     <div class="text-section">
       <h3>skådespelerska / sångerska / musikalartist</h3>
@@ -26,7 +26,7 @@
         </div>
         <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>
-      <p style="position: absolute; bottom: 10px; right: 16px; color: #fff;">Foto Linda Brelin / Håkan Röjder</p>
+      <p style="position: absolute; bottom: 10px; right: 16px; color: #fff;">Foto POINT OF YOU</p>
     </div>
     <div class="quote-section">
       <h2>“I Frida Linnell bor en framtida musikalstjärna helt klart”</h2>
@@ -57,7 +57,7 @@ export default {}
 }
 
 .info-section {
-  background-image: url('/Hjärterdam.jpg');
+  background-image: url('/20(1).jpg');
   background-size: cover;
   background-position: center;
   padding: 8vw 6vw 4vw 6vw;
@@ -101,8 +101,8 @@ export default {}
       border-radius: 4px;
       font-size: 20px;
       color: #fff;
-      background-color: #f08e80;
-      border-color: #f08e80;
+      background-color: #be9e63;
+      border-color: #be9e63;
       text-decoration: none;
     }
   }

@@ -9,12 +9,12 @@
       <img
         alt=""
         style="width: 100%; height: 100%; object-position: 52.9963% 23.4543%; object-fit: cover;"
-        src="/DSC_4978.jpg">
+        src="/15.jpg">
     </div>
     <div class="about-section">
       <div class="photo">
-        <img src="/DSC_4891.jpg">
-        <p>Foto Linda Brelin</p>
+        <img src="/6.jpg">
+        <p>Foto POINT OF YOU</p>
       </div>
       <div class="about-text">
         <p>

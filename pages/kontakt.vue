@@ -16,9 +16,9 @@
           <br>
         </p>
       </div>
-      <img src="/DSC_4970.jpg"/>
+      <img src="/31.jpg"/>
       <p></p>
-      <p>Foto Linda Brelin</p>
+      <p>Foto POINT OF YOU</p>
     </div>
   </div>
 </template>

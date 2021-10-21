@@ -7,17 +7,17 @@
           <img
             alt="Foto Linda Brelin"
             style="width: 100%; height: 100%; object-position: 49% 0%; object-fit: cover;"
-            src="/DSC_5121.jpg">
+            src="/16.jpg">
         </div>
         <div class="image">
           <img
             alt="DSC_4836 kopiera.jpg"
             style="width: 100%; height: 100%; object-position: 46% 19.9565%; object-fit: cover;"
-            src="/DSC_4836.jpg">
+            src="/22.jpg">
         </div>
       </div>
       <p>
-        Foto Linda Brelin
+        Foto POINT OF YOU
       </p>
       <h1 class="page-header">
         CV
@@ -100,7 +100,7 @@ export default {
     }
 
     .image {
-      padding-bottom: 100%;
+      padding-bottom: 120%;
       overflow: hidden;
       position: relative;
 

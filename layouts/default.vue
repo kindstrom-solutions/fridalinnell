@@ -86,11 +86,11 @@ html {
 }
 
 body {
-  background-color: #fdf0e6;
+  background-color: #faf1dd;
   color: #000;
 
   a {
-    color: #f08e80;
+    color: #be9e63;
   }
 }
 
@@ -192,7 +192,7 @@ header {
   z-index: 1; /* Sit on top */
   left: 0;
   top: 0;
-  background-color: #fdf0e6;
+  background-color: #faf1dd;
   overflow-x: hidden; /* Disable horizontal scroll */
   transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
   font-family: 'Source Sans Pro', sans-serif;
@@ -211,7 +211,7 @@ header {
     transition: 0.3s;
 
     &:hover, &:focus {
-      color: #f08e80;
+      color: #be9e63;
     }
 
     &.current {

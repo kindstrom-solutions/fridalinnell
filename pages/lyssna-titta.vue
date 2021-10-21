@@ -105,11 +105,11 @@
           <div class="caption"> Signes val (Historien får liv) / Foto Tomas Polvall</div> 
         </div>
         <div class="image">
-          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Fridayey.jpg">
+          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Hjärterdam.jpg">
           <div class="caption"> Alice i Underlandet / Foto Håkan Röjder</div> 
         </div>
         <div class="image">
-          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Hjärterdam2.JPG">
+          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Fridayey.jpg">
           <div class="caption"> Alice i Underlandet / Foto Håkan Röjder</div> 
         </div>
         <div class="image">
