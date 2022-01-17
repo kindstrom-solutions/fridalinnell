@@ -39,19 +39,30 @@
       <p>2014 / 1 Year Full-time Intensive Diploma in Musical Theatre / Associated Studios, London</p>
     </div>
     <div class="scene-section">
-      <h4>Yrkeserfarenhet</h4>
+      <h4>Scen</h4>
       <p>2021 / <a href="https://www.underhallningspatrullen.se/forestallning/Alice-i-Underlandet">Alice i Underlandet</a> / Hjärter Dam, Påskharen / Kristianstad Teater </p>
       <p>2021 / Signes val (Historien får liv) / flera roller / Fredriksdal i Helsingborg </p>
-      <p>2021 / <a href="https://www.netflix.com/watch/81048667?trackId=200257859">Centaurworld</a>  / Valtaur, kattaur (svensk röst & sång) / SDI Media</p>
-      <p>2021 / Barbie TV-Movie / Emmie (svensk röst) / SDI Media</p>
-      <p>2021 / Tom &amp; Jerry / Lola (svensk röst) / Warner Bros. SDI Media</p>
-      <p>2020 / <a href="https://se.hbonordic.com/kids/movies/onsketradet/1f10ced-013a36f3e50">The Wishmas Tree</a> / Petra (svensk röst) / SDI Media</p>
       <p>2020 / <a href="https://www.facebook.com/karaannamusikalen/">Kära Anna</a> (Reading) / Alex / Smålands Musik och Teater</p>
       <p>2019/2020 / <a href="https://stadsteatern.goteborg.se/pa-scen/2019-2020/herr-puntila-och-hans-drang-matti/">Herr Puntila och hans dräng Matti</a> / Husan Fina, Lagårdspigan, Fru Gyllenstjärna / Göteborgs Stadsteater</p>
       <p>2018 / Sissel Kyrkjebö’s Jul 2018 / Gästsolist / Lisebergshallen</p>
       <p>2017 / Familjen Addams / Gammelmor / Kolhusteatern</p>
       <p>2016 / Stand-in-Artist Eurovision Song Contest / 1944 av Jamala / Globen (SVT)</p>
-      <h4 style="margin-top: 60px;">Scenisk erfarenhet under utbildning</h4>
+
+      <h4 style="margin-top: 60px"> Röst</h4>
+      <p>2021 / SDI Media <br>
+      <a href="https://www.netflix.com/search?q=the%20witcher&jbv=80189685"> The Witcher</a> / Danica m.fl.<br>
+       <a href="https://www.netflix.com/watch/81048667?trackId=200257859">Centaurworld</a>  / Valtaur, kattaur m.fl.<br>
+       Barbie TV-Movie / Emmie <br>
+       Tom &amp; Jerry / Lola </p>
+       
+
+       <p> 2021 / TMP <br>
+       VO Kjell &amp; Co. </p>
+
+       <p> 2020 / SDI Media <br>
+      <a href="https://se.hbonordic.com/kids/movies/onsketradet/1f10ced-013a36f3e50">The Wishmas Tree</a> / Petra </p>
+
+      <h4 style="margin-top: 60px;">Scen under utbildning</h4>
       <p>2020 / Delar ur <a href="https://www.scenfilm.se/2020/06/15/sorg-och-besvikelse-blev-till-kreativitet-vid-musikalutbildningen/">Tänk/Om</a> / Betty / Högskolan för Scen och Musik</p>
       <p>2019 / <a href="https://www.facebook.com/pojkarnamusikalen/">Pojkarna</a> (Reading) / Momo / GöteborgsOperan</p>
       <p>2019 / <a href="https://musicalbridges.se/">Närmare Kanten</a> / Isabelle / Högskolan för Scen och Musik</p>
