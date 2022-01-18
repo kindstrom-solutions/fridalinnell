@@ -19,7 +19,7 @@
           Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar nu som
           frilansande skådespelerska inom flera konstnärliga områden. På scen sågs hon senast hösten 2021 
           i uppsättningen av <em>Alice i Underlandet</em> på Kristianstad Teater, där hon bl.a. spelade
-          rollen som Hjärter Daam. Fridaa är också uppmärksammad för hennes tolking av 
+          rollen som Hjärter Dam. Frida är också uppmärksammad för hennes tolking av 
           Alex i den nyskrivna musikalen <em>Kära Anna</em>, i samband med Musikalsymposiet på Smålands
           Musik och Teater i maj 2020. 
         </div>
