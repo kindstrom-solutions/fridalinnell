@@ -16,7 +16,7 @@
           Välkommen
         </div>
         <div class="box-text">
-          Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar nu som
+          Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar som
           frilansande skådespelerska inom flera konstnärliga områden. På scen sågs hon senast hösten 2021 
           i uppsättningen av <em>Alice i Underlandet</em> på Kristianstad Teater, där hon bl.a. spelade
           rollen som Hjärter Dam. Frida är också uppmärksammad för hennes tolking av 
