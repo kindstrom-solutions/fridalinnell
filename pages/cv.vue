@@ -30,7 +30,7 @@
       <p>Språk / Svenska, engelska, enklare spanska</p>
       <p>Dialekt / Östgötska, scensvenska</p>
       <p>Dans / God dansare och behärskar jazz, modern och balett mycket väl   </p>
-      <p>Övrigt / Gymnastik, notläsning, självlärd på gitarr, B-körkort</p>
+      <p>Övrigt / Gymnastik, notläsning, självlärd på gitarr, dubb, B-körkort</p>
     </div>
     <div class="cv-section">
       <h4>Utbildning</h4>
@@ -57,7 +57,7 @@
        
 
        <p> 2021 / TMP <br>
-       VO Kjell &amp; Co. </p>
+       <a href="https://www.youtube.com/watch?v=Zp1vHa00KF0&ab_channel=Kjell%26CompanySverige"> VO Kjell &amp; Co.</a> </p>
 
        <p> 2020 / SDI Media <br>
       <a href="https://se.hbonordic.com/kids/movies/onsketradet/1f10ced-013a36f3e50">The Wishmas Tree</a> / Petra </p>
