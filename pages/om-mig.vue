@@ -32,8 +32,8 @@
           jag exempelvis den annorlunda förmånen att som musikalstudent göra praktik i Bertolt Brechts <em>Herr Puntila och hans dräng Matti </em>på Göteborgs Stadsteater under 2019/2020. Jag har också flitig engagerat mig i
           <em>Musikalplattforms</em> vision om att lyfta fram nyskriven svensk musikal - där jag under Musikalsymposiet 2020 på Smålands Musik och Teater, gjorde den mycket
           uppskattade insatsen som Alex i musikalen <em>Kära Anna </em>skriven av Oscar Collin och Pia Ternström. Nuförtiden arbetar jag dessutom i studion med röstjobb i form av dubbning och
-          röstskådespeleri. I framtiden hoppas jag kunna ta min gestaltning till nya miljöer där jag kan
-          få chansen att filma.
+          röstskådespeleri. Under våren 2022 har jag också skaffat mig den efterlängtade
+          erfarenheten av att filma, och hoppas framöver få möjligheten att fortsätta utveckla mitt skådespeleri inom film.
         </p>
         <p>
           Jag är hopplöst kär i gestaltning och det sceniska uttrycket. Det bara är så. Jag är ett funny

@@ -29,7 +29,7 @@
       <p>Längd / 168 cm</p>
       <p>Språk / Svenska, engelska, enklare spanska</p>
       <p>Dialekt / Östgötska, scensvenska</p>
-      <p>Dans / God dansare och behärskar jazz, modern och balett mycket väl   </p>
+      <p>Dans / Avancerad jazz och modern/lyrical, behärskar balett och hiphop   </p>
       <p>Övrigt / Gymnastik, notläsning, självlärd på gitarr, dubb, B-körkort</p>
     </div>
     <div class="cv-section">
@@ -47,6 +47,10 @@
       <p>2018 / Sissel Kyrkjebö’s Jul 2018 / Gästsolist / Lisebergshallen</p>
       <p>2017 / Familjen Addams / Gammelmor / Kolhusteatern</p>
       <p>2016 / Stand-in-Artist Eurovision Song Contest / 1944 av Jamala / Globen (SVT)</p>
+     
+      <h4 style="margin-top: 60px"> Film</h4>
+      <p>2022 / Arken / Marion / Skurups Folkhögskola </p>
+      <p>2022 / Hjärta av glas / Linda / Stockholms Filmskola </p>
 
       <h4 style="margin-top: 60px"> Röst</h4>
       <p>2021 / SDI Media <br>

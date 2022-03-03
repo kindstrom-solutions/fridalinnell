@@ -101,16 +101,24 @@
     <div class="image-gallery">
       <VueSlickCarousel v-bind="carouselSettings">
         <div class="image">
-          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Fridanej.JPG">
-          <div class="caption"> Signes val (Historien får liv) / Foto Tomas Polvall</div> 
-        </div>
-        <div class="image">
           <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Hjärterdam.jpg">
           <div class="caption"> Alice i Underlandet / Foto Håkan Röjder</div> 
         </div>
         <div class="image">
+          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Arken_säng.JPG">
+          <div class="caption">Arken</div> 
+        </div>
+        <div class="image">
+          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Fridanej.JPG">
+          <div class="caption"> Signes val (Historien får liv) / Foto Tomas Polvall</div> 
+        </div>
+        <div class="image">
           <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Fridayey.jpg">
           <div class="caption"> Alice i Underlandet / Foto Håkan Röjder</div> 
+        </div>
+         <div class="image">
+          <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Arken_Hall.JPG">
+          <div class="caption"> Arken</div> 
         </div>
         <div class="image">
           <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/FamiljenAddams.jpg">
