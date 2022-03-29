@@ -21,7 +21,7 @@
           i uppsättningen av <em>Alice i Underlandet</em> på Kristianstad Teater, där hon bl.a. spelade
           rollen som Hjärter Dam. Frida är också uppmärksammad för hennes tolking av 
           Alex i den nyskrivna musikalen <em>Kära Anna</em>, i samband med Musikalsymposiet på Smålands
-          Musik och Teater i maj 2020. 
+          Musik och Teater i maj 2020. I sommar spelar Frida interaktiv familjeteater i Skansens skådespelarensemble.
         </div>
         <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>

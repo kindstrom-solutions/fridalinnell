@@ -80,6 +80,7 @@
     </div>
     <div class="continuing-section">
       <h4>Fortbildning</h4>
+      <p>Expanderat utrymme för skådespelarens gestalning / TeaterAlliansen Strindbergs Intima Teater, Anna Pettersson</p>
       <p>Jazzlinjen JAM Studio / Södertörns Folkhögskola</p>
     </div>
   </div>
