@@ -40,6 +40,7 @@
     </div>
     <div class="scene-section">
       <h4>Scen</h4>
+      <p>2022 / Kapten Reko på Lill-Skansen / flera roller / Skansen (Teater Pegasus)</p>
       <p>2021 / <a href="https://www.underhallningspatrullen.se/forestallning/Alice-i-Underlandet">Alice i Underlandet</a> / Hjärter Dam, Påskharen / Kristianstad Teater </p>
       <p>2021 / Signes val (Historien får liv) / flera roller / Fredriksdal i Helsingborg </p>
       <p>2020 / <a href="https://www.facebook.com/karaannamusikalen/">Kära Anna</a> (Reading) / Alex / Smålands Musik och Teater</p>
@@ -53,12 +54,15 @@
       <p>2022 / Hjärta av glas / Linda / Stockholms Filmskola </p>
 
       <h4 style="margin-top: 60px"> Röst</h4>
+      <p>2022 / Iyuno-SDI Media <br>
+      Eureka </p> 
+
+      <p>
       <p>2021 / SDI Media <br>
       <a href="https://www.netflix.com/search?q=the%20witcher&jbv=80189685"> The Witcher</a> / Danica m.fl.<br>
        <a href="https://www.netflix.com/watch/81048667?trackId=200257859">Centaurworld</a>  / Valtaur, kattaur m.fl.<br>
        Barbie TV-Movie / Emmie <br>
        Tom &amp; Jerry / Lola </p>
-       
 
        <p> 2021 / TMP <br>
        <a href="https://www.youtube.com/watch?v=Zp1vHa00KF0&ab_channel=Kjell%26CompanySverige"> VO Kjell &amp; Co.</a> </p>
