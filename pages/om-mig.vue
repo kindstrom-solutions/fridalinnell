@@ -28,7 +28,8 @@
           rövare i en av Linköpings amatörteatergrupper.
         </p>
         <p>
-          Under hela min kärlekshistoria med scenkonsten har jag provat på både det ena och det andra, och mitt fokus har således blivit att hålla blicken bred utan att tumma på mina konstnärliga värderingar. Förutom en hel rad varierande musikaluppsättningar, hade
+          Under hela min kärlekshistoria med scenkonsten har jag provat på både det ena och det andra, och mitt fokus har således blivit att hålla blicken bred utan att tumma på mina konstnärliga värderingar. Förutom att ha gjort en hel rad
+          olika musikaluppsättningar, hade
           jag exempelvis den annorlunda förmånen att som musikalstudent göra praktik i Bertolt Brechts <em>Herr Puntila och hans dräng Matti </em>på Göteborgs Stadsteater under 2019/2020. Jag har också flitig engagerat mig i
           <em>Musikalplattforms</em> vision om att lyfta fram nyskriven svensk musikal - där jag under Musikalsymposiet 2020 på Smålands Musik och Teater, gjorde den mycket
           uppskattade insatsen som Alex i musikalen <em>Kära Anna </em>skriven av Oscar Collin och Pia Ternström. Nuförtiden arbetar jag dessutom i studion med röstjobb i form av dubbning och
@@ -43,7 +44,9 @@
         </p>
         <p>
           Hösten 2021 medverkade jag i <em>Alice i Underlandet</em> i rollen som bl.a. Hjärter Dam. Läs mer <a href="https://www.underhallningspatrullen.se/forestallning/Alice-i-Underlandet">här</a>.
-          I sommar spelar jag interaktiv familjeteater i Skansens skådespelarensemble.
+          Under sommaren 2022 ingick jag i Skansens skådespelarensemble där vi spelade interaktiv
+          familjeteater. Just nu är jag involverad i projektet <em>Inte Ensam – en musikal</em> som blir en scenisk
+          läsning senare i höst. Läs mer <a href="https://inteensamenmusikal.se/">här</a>. 
         </p>
       </div>
     </div>

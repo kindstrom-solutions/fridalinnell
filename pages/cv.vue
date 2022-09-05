@@ -55,7 +55,9 @@
 
       <h4 style="margin-top: 60px"> Röst</h4>
       <p>2022 / Iyuno-SDI Media <br>
-      Eureka </p> 
+      Batwheels / sång <br>
+      Barbie TV-Movie / Emmie <br>
+      Eureka / sång </p> 
 
       <p>
       <p>2021 / SDI Media <br>
