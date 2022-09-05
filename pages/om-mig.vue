@@ -43,7 +43,6 @@
           hålla på med skådespeleri.    
         </p>
         <p>
-          Hösten 2021 medverkade jag i <em>Alice i Underlandet</em> i rollen som bl.a. Hjärter Dam. Läs mer <a href="https://www.underhallningspatrullen.se/forestallning/Alice-i-Underlandet">här</a>.
           Under sommaren 2022 ingick jag i Skansens skådespelarensemble där vi spelade interaktiv
           familjeteater. Just nu är jag involverad i projektet <em>Inte Ensam – en musikal</em> som blir en scenisk
           läsning senare i höst. Läs mer <a href="https://inteensamenmusikal.se/">här</a>. 
