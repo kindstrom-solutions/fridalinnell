@@ -20,7 +20,7 @@
           frilansande skådespelerska inom flera konstnärliga områden. Senast på scen syntes hon
           under sommaren 2022 i Skansens interaktiva familjeteaterföreställningar i flertalet roller.
           Frida är också uppmärksammad för sin tolkning av Alex i den nyskrivna
-          musikalen <em>Kära Anna</em>,i samband med Musikalsymposiet på Smålands Musik och Teater i
+          musikalen <em>Kära Anna</em>, i samband med Musikalsymposiet på Smålands Musik och Teater i
           maj 2020. Just nu är hon är aktuell i projektet <em>Inte Ensam - en musikal</em> som blir en scenisk
           läsning senare i höst.
         </div>
