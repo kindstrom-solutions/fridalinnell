@@ -5,7 +5,7 @@
       <div class="overlay-content">
         <nuxt-link to="/om-mig">Om mig</nuxt-link>
         <nuxt-link to="/cv">CV</nuxt-link>
-        <nuxt-link to="/lyssna-titta">Lyssna och titta</nuxt-link>
+        <nuxt-link to="/lyssna-titta-2">Lyssna och titta</nuxt-link>
         <nuxt-link to="/kontakt">Kontakt</nuxt-link>
       </div>
     </div>
