@@ -46,6 +46,7 @@
           Under sommaren 2022 ingick jag i Skansens skådespelarensemble där vi spelade interaktiv
           familjeteater. Just nu är jag involverad i projektet <em>Inte Ensam – en musikal</em> som blir en scenisk
           läsning senare i höst. Läs mer <a href="https://inteensamenmusikal.se/">här</a>. 
+          Jag deltar också i workshopen av föreställningen <em>Handbok för Superhjältar</em>.
         </p>
       </div>
     </div>
