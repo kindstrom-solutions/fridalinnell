@@ -1,101 +1,35 @@
 <template>
   <div class="container">
     <h1 style="display: none;">Lyssna och titta</h1>
-    <video autoplay muted loop class="bg-video">
+    <!-- <div class="videos-bg">
+      <video autoplay muted loop class="left">
       <source src="/Frida_Final.mp4" type="video/mp4">
     </video>
-    <div class="page-header">
-      Lyssna och titta
-    </div>
+    <video autoplay muted loop class="right">
+      <source src="/Frida_Final.mp4" type="video/mp4">
+    </video>
+    </div> -->
+    <video autoplay muted loop class="split left">
+      <source src="/Frida_Final.mp4" type="video/mp4">
+    </video>
+    <video autoplay muted loop class="split right">
+      <source src="/Frida_Final.mp4" type="video/mp4">
+    </video>
 
-    <div class="y2b-grid">
-      <div class="video">
-        <div class="video-frame">
-          <iframe
-            src="https://www.youtube.com/embed/eO5PV1nhZJQ?wmode=opaque&amp;enablejsapi=1"
-            height="480"
-            width="854"
-            scrolling="no"
-            frameborder="0"
-            allowfullscreen="">
-          </iframe>
-        </div>
-        <p>
-          Frida Linnell / Reel scen 
-        </p>
-      </div>
-      <div class="video">
-        <div class="video-frame">
-          <iframe
-            src="https://www.youtube.com/embed/brXmiCnJu6k?wmode=opaque&amp;enablejsapi=1"
-            height="480"
-            width="854"
-            scrolling="no"
-            frameborder="0"
-            allowfullscreen="">
-          </iframe>
-        </div>
-        <p>
-          Musikalen Kära Anna / delar ur läsningen på Musikalsymposiet 2020
-        </p>
-      </div>
+    <nuxt-link to="/lyssna-titta/scen" class="page-header" style="left: 21vw;">Scen</nuxt-link>
+    <nuxt-link to="/lyssna-titta/film" class="page-header" style="right: 21vw;">Film</nuxt-link>
+    <!-- <div class="page-header" style="left: 21vw;">
+      Scen
     </div>
+    <div class="page-header" style="right: 21vw;">
+      Film
+    </div> -->
+
+    <div class="spacer"></div>
 
     <div class="quote-section">
       <h2>“Frida Linnell river ner applåder långt innan hon har sjungit klart, och är glimrande i minirollen fru Gyllenstjärna”</h2>
       <p>— Aftonbladet</p>
-    </div>
-
-    <div class="y2b-grid">
-      <div class="video">
-        <div class="video-frame">
-          <iframe
-            src="https://www.youtube.com/embed/GJht0KTzaZE?wmode=opaque&amp;enablejsapi=1"
-            height="480"
-            width="854"
-            scrolling="no"
-            frameborder="0"
-            allowfullscreen="">
-          </iframe>
-        </div>
-        <p>
-          Va Fan / ett urklipp ur musikalen Tänk/Om
-        </p>
-      </div>
-      <div class="video">
-        <div class="video-frame">
-          <iframe
-            src="https://www.youtube.com/embed/P1Er7f9wca4?wmode=opaque&amp;enablejsapi=1"
-            height="480"
-            width="854"
-            scrolling="no"
-            frameborder="0"
-            allowfullscreen="">
-          </iframe>
-        </div>
-        <p>
-          Another Life / musikalen Bridges of Madison County
-        </p>
-      </div>
-    </div>
-
-    <div class="spotify-grid">
-      <div class="info" style="padding-right: 80px;">
-        <h4 style="margin-bottom: 32px;">Närmare Kanten / Original Cast Recording</h4>
-        <p>
-          <em>Närmare Kanten</em> är en unik scenisk berättelse skriven av Martin Schaub, Patrick Rydman och Mattias Palm,
-          i samarbete med Stiftelsen Gyllenkroken och Högskolan för Scen och Musik.
-          Hela musikalen är inspelad i Svenska Grammofonstudion av originalensemblen, där Frida gjorde rollen som Isabelle.
-        </p>
-      </div>
-      <iframe
-        scrolling="no"
-        frameborder="0"
-        id="player"
-        src="https://open.spotify.com/embed/track/2NwtBu0p14IbTeUPSLNeAR?referrer=https%3A%2F%2Ffridalinnell.se%2Fphoto-gallery"
-        allowfullscreen="true"
-        style="width: 100%;">
-      </iframe>
     </div>
 
     <div class="image-gallery">
@@ -199,26 +133,51 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.bg-video {
-  height: 100vh;
-  width: 100%;
+// .videos-bg {
+//   display: flex;
+//   height: 100%;
+// }
+.split {
+  height: 100%;
+  width: 50%;
+  position: absolute;
+  // z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+}
+
+.left {
+  left: 0;
   object-fit: cover;
-  position: relative;
+}
+
+.right {
+  right: 0;
+  object-fit: cover;
 }
 
 .page-header {
   position: absolute;
-  left: 8vw;
   bottom: 45vh;
   font-size: 54px;
   color: #fff;
+  text-decoration: none;
 
-  @media screen and (min-width: 400px) { left: 17vw; }
-  @media screen and (min-width: 600px) { left: 24vw; }
-  @media screen and (min-width: 800px) { left: 35vw; }
-  @media screen and (min-width: 1200px) { left: 38vw; }
-  @media screen and (min-width: 1500px) { left: 41vw; }
-  @media screen and (min-width: 2000px) { left: 44vw; }
+  &:hover {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+
+  // @media screen and (min-width: 400px) { left: 17vw; }
+  // @media screen and (min-width: 600px) { left: 24vw; }
+  // @media screen and (min-width: 800px) { left: 35vw; }
+  // @media screen and (min-width: 1200px) { left: 38vw; }
+  // @media screen and (min-width: 1500px) { left: 41vw; }
+  // @media screen and (min-width: 2000px) { left: 44vw; }
+}
+
+.spacer {
+  margin-top: 100vh;
 }
 
 .y2b-grid {
@@ -286,7 +245,6 @@ export default {
 }
 
 .image-gallery {
-  background-color: #fff;
   padding: 5vmax 8vw 60px 8vw;
 
   @media screen and (min-width: 800px) {
