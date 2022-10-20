@@ -32,8 +32,12 @@ export default {
 
 <style lang="scss" scoped>
 .page-header {
-  padding: 100px 4vw 0 4vw;
-  font-size: 72px;
+  padding: 100px 6vw 0 6vw;
+  font-size: calc(4vw + 2rem);
+
+  @media screen and (min-width: 800px) {
+    padding: 140px 4vw 0 4vw;
+  }
 }
 
 .video {

@@ -90,42 +90,8 @@
 </template>
 
 <script>
-import VueSlickCarousel from 'vue-slick-carousel'
-import 'vue-slick-carousel/dist/vue-slick-carousel.css'
-import 'vue-slick-carousel/dist/vue-slick-carousel-theme.css'
 
 export default {
-  components: {
-    VueSlickCarousel
-  },
-  data() {
-    return {
-      carouselSettings: {
-        arrows: true,
-        dots: true,
-        lasyLoad: 'ondemand',
-        focusOnSelect: true,
-        infinite: true,
-        speed: 500,
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        responsive: [
-          {
-            breakpoint: 1600,
-            settings: {
-              slidesToShow: 2,
-            }
-          },
-          {
-            breakpoint: 1200,
-            settings: {
-              slidesToShow: 1,
-            }
-          }
-        ]
-      },
-    }
-  },
   head() {
     return {
       title: 'Frida Linnell | Lyssna och titta'
@@ -136,8 +102,12 @@ export default {
 
 <style lang="scss" scoped>
 .page-header {
-  padding: 140px 4vw 0 4vw;
-  font-size: 72px;
+  padding: 100px 6vw 0 6vw;
+  font-size: calc(4vw + 2rem);
+
+  @media screen and (min-width: 800px) {
+    padding: 140px 4vw 0 4vw;
+  }
 }
 
 .y2b-grid {

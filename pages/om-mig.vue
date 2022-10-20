@@ -8,7 +8,7 @@
       </div>
       <img
         alt=""
-        style="width: 100%; height: 100%; object-position: 52.9963% 23.4543%; object-fit: cover;"
+        style="width: 100%; height: 100%; object-position: 47.996% 0; object-fit: cover;"
         src="/15.jpg">
     </div>
     <div class="about-section">
