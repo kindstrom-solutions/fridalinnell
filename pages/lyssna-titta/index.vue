@@ -65,7 +65,7 @@
         to="/lyssna-titta/scen"
         class="page-header hover-underline-animation"
         :class="{ 'hover-underline-animation-anim': scenHovered }"
-        style="position: absolute; left: 36vw; top: 20vh; z-index: 100;">
+        style="position: absolute; left: 36vw; top: 20vh;">
         Scen
       </nuxt-link>
       <nuxt-link
@@ -260,6 +260,7 @@ export default {
 }
 
 .image-gallery {
+  background-color: #faf1dd;
   padding: 5vmax 6vw 60px 6vw;
   display: grid;
   grid-template-columns: 1fr;

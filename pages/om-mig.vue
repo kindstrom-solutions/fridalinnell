@@ -89,6 +89,7 @@ export default {
 }
 
 .about-section {
+  background-color: #faf1dd;
   padding: 70px 6vw;
   display: grid;
   grid-template-columns: 1fr;

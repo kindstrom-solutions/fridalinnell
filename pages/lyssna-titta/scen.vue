@@ -1,8 +1,8 @@
 <template>
   <div class="container">
-    <h1 class="page-header">Scen</h1>
+    <!-- <h1 class="page-header">Scen</h1> -->
 
-    <div class="y2b-grid">
+    <div class="y2b-grid" style="margin-top: 8rem; background-color: #fff;">
       <div class="video">
         <div class="video-frame">
           <iframe
@@ -147,6 +147,7 @@ export default {
 }
 
 .spotify-grid {
+  background-color: #faf1dd;
   display: grid;
   grid-template-columns: 1fr;
   column-gap: 2vw;

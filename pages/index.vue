@@ -119,6 +119,7 @@ export default {}
 }
 
 .quote-section {
+  background-color: #faf1dd;
   display: flex;
   flex-direction: column;
   padding: 5vmax calc(20vw + 1rem);
