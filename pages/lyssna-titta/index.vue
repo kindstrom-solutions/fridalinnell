@@ -43,7 +43,8 @@
       <video 
         autoplay 
         muted 
-        loop 
+        loop
+        playsinline
         @mouseover="scenHovered = true" 
         @mouseleave="scenHovered = false"
         @click="gotoScen()"
@@ -53,7 +54,8 @@
       <video 
         autoplay 
         muted 
-        loop 
+        loop
+        playsinline
         @mouseover="filmHovered = true" 
         @mouseleave="filmHovered = false"
         @click="gotoFilm()"
