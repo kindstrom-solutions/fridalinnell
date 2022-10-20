@@ -4,7 +4,7 @@
     <div class="big-image">
       <img
         alt=""
-        style="display: block; width: 100%; height: 100%; object-position: 69.9098% 0%; object-fit: cover;"
+        style="display: block; width: 100%; height: 100%; object-position: 46.91% 0%; object-fit: cover;"
         src="/23.jpg">
     </div>
     <div class="text-section">
@@ -23,7 +23,6 @@
           musikalen <em>Kära Anna</em>, i samband med Musikalsymposiet på Smålands Musik och Teater i
           maj 2020. Just nu är hon är aktuell i projektet <em>Inte Ensam - en musikal</em> som blir en scenisk
           läsning senare i höst, samt i workshopen av föreställningen <em>Handbok för Superhjältar</em>.
-.
         </div>
         <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>
@@ -60,7 +59,7 @@ export default {}
 .info-section {
   background-image: url('/20(1).jpg');
   background-size: cover;
-  background-position: center;
+  background-position: 82.91% 0%;
   padding: 8vw 6vw 4vw 6vw;
 
   @media screen and (min-width: 800px) {
@@ -120,6 +119,7 @@ export default {}
 }
 
 .quote-section {
+  background-color: #faf1dd;
   display: flex;
   flex-direction: column;
   padding: 5vmax calc(20vw + 1rem);

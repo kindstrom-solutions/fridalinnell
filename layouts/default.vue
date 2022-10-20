@@ -46,7 +46,7 @@ export default {
         return 'black-text'
       }
       const route = this.$route.name
-      if (route === 'cv' || route === 'kontakt') {
+      if (route === 'cv' || route === 'kontakt' || route === 'lyssna-titta-film' || route === 'lyssna-titta-scen') {
         return 'black-text'
       } else {
         return ''
@@ -86,7 +86,7 @@ html {
 }
 
 body {
-  background-color: #faf1dd;
+  background-color: #fff;
   color: #000;
 
   a {
@@ -123,6 +123,7 @@ header {
     text-decoration: none;
     backface-visibility: hidden;
     color: #fff;
+    z-index: 101;
   }
 
   .links {
@@ -189,7 +190,7 @@ header {
   height: 100%;
   width: 100%;
   position: fixed; /* Stay in place */
-  z-index: 1; /* Sit on top */
+  z-index: 10; /* Sit on top */
   left: 0;
   top: 0;
   background-color: #faf1dd;

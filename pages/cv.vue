@@ -32,7 +32,7 @@
       <p>Dans / Avancerad jazz och modern/lyrical, behärskar balett och hiphop   </p>
       <p>Övrigt / Gymnastik, notläsning, självlärd på gitarr, dubb, B-körkort</p>
     </div>
-    <div class="cv-section">
+    <div class="cv-section" style="background-color: #faf1dd;">
       <h4>Utbildning</h4>
       <p>2017 - 2020 / Konstnärlig kandidatutbildning i musikal / Högskolan för Scen och Musik, Göteborg</p>
       <p>2015 - 2017 / Musikalartistutbildning / Kulturama, Stockholm</p>
@@ -84,7 +84,7 @@
       <p>2016 / Heathers / Ensemble / Kulturama</p>
       <p>2014 / A Little Night Music / Anne Egerman / Associated Studios</p>
     </div>
-    <div class="continuing-section">
+    <div class="continuing-section" style="background-color: #faf1dd;">
       <h4>Fortbildning</h4>
       <p>Expanderat utrymme för skådespelarens gestalning / TeaterAlliansen Strindbergs Intima Teater, Anna Pettersson</p>
       <p>Jazzlinjen JAM Studio / Södertörns Folkhögskola</p>
