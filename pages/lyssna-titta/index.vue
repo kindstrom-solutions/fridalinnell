@@ -44,7 +44,7 @@
         autoplay 
         muted 
         loop
-        playsinline="playsinline"
+        playsinline
         @mouseover="scenHovered = true" 
         @mouseleave="scenHovered = false"
         @click="gotoScen()"
@@ -55,7 +55,7 @@
         autoplay 
         muted 
         loop
-        playsinline="playsinline"
+        playsinline
         @mouseover="filmHovered = true" 
         @mouseleave="filmHovered = false"
         @click="gotoFilm()"
