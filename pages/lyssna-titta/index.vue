@@ -67,15 +67,17 @@
         to="/lyssna-titta/scen"
         class="page-header hover-underline-animation"
         :class="{ 'hover-underline-animation-anim': scenHovered }"
-        style="position: absolute; left: 36vw; top: 20vh;">
+        style="position: absolute; left: 36vw; top: 20vh; text-align: center;">
         Scen
+        <div style="font-size: 16px; margin-top: -8px;">Klicka här</div>
       </nuxt-link>
       <nuxt-link
         to="/lyssna-titta/film"
         class="page-header hover-underline-animation"
         :class="{ 'hover-underline-animation-anim': filmHovered }"
-        style="position: absolute; left: 36vw; bottom: 20vh;">
+        style="position: absolute; left: 36vw; bottom: 20vh; text-align: center;">
         Film
+        <div style="font-size: 16px; margin-top: -8px;">Klicka här</div>
       </nuxt-link>
     </div>
 
