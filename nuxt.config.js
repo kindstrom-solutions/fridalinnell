@@ -37,7 +37,7 @@ export default {
       { rel: 'apple-touch-icon', sizes: '152x152', type: 'image/x-icon', href: '/apple-icon-152x152.png' },
       { rel: 'apple-touch-icon', sizes: '180x180', type: 'image/x-icon', href: '/apple-icon-180x180.png' },
       { rel: 'icon', sizes: '192x192', type: 'image/png', href: '/android-icon-192x192.png' },
-      { rel: 'icon', sizes: '32x32', type: 'image/png', href: '/android-icon-32x32.png' },
+      { rel: 'icon', sizes: '36x36', type: 'image/png', href: '/android-icon-36x36.png' },
       { rel: 'icon', sizes: '96x96', type: 'image/png', href: '/android-icon-96x96.png' },
       { rel: 'icon', sizes: '16x16', type: 'image/png', href: '/android-icon-16x16.png' },
       { rel: 'manifest', href: '/manifest.json' },
