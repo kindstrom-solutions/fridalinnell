@@ -40,6 +40,9 @@
     </div>
     <div class="scene-section">
       <h4>Scen</h4>
+      <p> 2022 / Handbok för Superhjältar (Workshop) / flera roller</p>
+      <p>2022 / <a href="https://inteensamenmusikal.se/"> Inte Ensam (Scenisk reading)</a>  / Celine / Pik
+Presens Improkällare</p>
       <p>2022 / Kapten Reko på Lill-Skansen / flera roller / Skansen (Teater Pegasus)</p>
       <p>2021 / <a href="https://www.underhallningspatrullen.se/forestallning/Alice-i-Underlandet">Alice i Underlandet</a> / Hjärter Dam, Påskharen / Kristianstad Teater </p>
       <p>2021 / Signes val (Historien får liv) / flera roller / Fredriksdal i Helsingborg </p>
@@ -50,14 +53,20 @@
       <p>2016 / Stand-in-Artist Eurovision Song Contest / 1944 av Jamala / Globen (SVT)</p>
      
       <h4 style="margin-top: 60px"> Film</h4>
+      <p>2022 / Botten / Mika / Runda Bordet Film</p>
       <p>2022 / Arken / Marion / Skurups Folkhögskola </p>
       <p>2022 / Hjärta av glas / Linda / Stockholms Filmskola </p>
 
       <h4 style="margin-top: 60px"> Röst</h4>
+      <p>2022 / Eurotroll <br>
+      <a href=" https://www.svtplay.se/kristianias-magiska-tivoliteater">Kristianias magiska tivoliteater</a> / Tora 
+      </p> 
+
       <p>2022 / Iyuno-SDI Media <br>
       Batwheels / sång <br>
       Barbie TV-Movie / Emmie <br>
-      Eureka / sång </p> 
+      Eureka / sång 
+       </p>
 
       <p>
       <p>2021 / SDI Media <br>

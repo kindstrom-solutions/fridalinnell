@@ -19,10 +19,11 @@
           Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar som
           frilansande skådespelerska inom flera konstnärliga områden. Senast på scen syntes hon
           under sommaren 2022 i Skansens interaktiva familjeteaterföreställningar i flertalet roller.
+          Under hösten 2022 deltog hon i projektet <em>Inte Ensam – en musikal</em>
+          samt i workshopen av föreställningen <em>Handbok för Superhjältar</em>.
           Frida är också uppmärksammad för sin tolkning av Alex i den nyskrivna
           musikalen <em>Kära Anna</em>, i samband med Musikalsymposiet på Smålands Musik och Teater i
-          maj 2020. Just nu är hon är aktuell i projektet <em>Inte Ensam - en musikal</em> som blir en scenisk
-          läsning senare i höst, samt i workshopen av föreställningen <em>Handbok för Superhjältar</em>.
+          maj 2020. 
         </div>
         <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>
