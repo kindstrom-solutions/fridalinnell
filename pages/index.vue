@@ -17,13 +17,10 @@
         </div>
         <div class="box-text">
           Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar som
-          frilansande skådespelerska inom flera konstnärliga områden. Senast på scen syntes hon
-          under sommaren 2022 i Skansens interaktiva familjeteaterföreställningar i flertalet roller.
-          Under hösten 2022 deltog hon i projektet <em>Inte Ensam – en musikal</em>
-          samt i workshopen av föreställningen <em>Handbok för Superhjältar</em>.
-          Frida är också uppmärksammad för sin tolkning av Alex i den nyskrivna
-          musikalen <em>Kära Anna</em>, i samband med Musikalsymposiet på Smålands Musik och Teater i
-          maj 2020. 
+          frilansande skådespelerska inom flera konstnärliga områden. Hon är t.ex. uppmärksammad för
+          sin tolkning av Alex i den nyskrivna musikalen <em>Kära Anna</em>, i samband med Musikalsymposiet
+          på Smålands Musik och Teater i maj 2020. Sommaren 2023 syns Frida på Astrid Lindgrens
+          Värld i rollen som bl.a. duvdrottningen Sofia i <em>Sagan om Bröderna Lejonhjärta</em>. 
         </div>
         <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>

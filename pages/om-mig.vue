@@ -43,9 +43,8 @@
           hålla på med skådespeleri.    
         </p>
         <p>
-          Under sommaren 2022 ingick jag i Skansens skådespelarensemble där vi spelade interaktiv
-          familjeteater. Hösten 2022 var jag involverad i projektet <em>Ensam – en musikal</em> samt i
-          workshopen av föreställningen <em>Handbok för Superhjältar</em>.
+          I sommar spelar jag <em>Sagan om Bröderna Lejonhjärta</em> på Astrid Lindgrens Värld där jag gör
+          flertalet roller, bl.a. duvdrottningen Sofia.
         </p>
       </div>
     </div>

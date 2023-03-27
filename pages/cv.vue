@@ -40,6 +40,7 @@
     </div>
     <div class="scene-section">
       <h4>Scen</h4>
+      <p> 2023 / Sagan om Bröderna Lejonhjärta / Sofia m.fl. / Astrid Lindgrens Värld </p>
       <p> 2022 / Handbok för Superhjältar (Workshop) / flera roller</p>
       <p>2022 / <a href="https://inteensamenmusikal.se/"> Inte Ensam (Scenisk reading)</a>  / Celine / Pik
 Presens Improkällare</p>
@@ -58,15 +59,15 @@ Presens Improkällare</p>
       <p>2022 / Hjärta av glas / Linda / Stockholms Filmskola </p>
 
       <h4 style="margin-top: 60px"> Röst</h4>
-      <p>2022 / Eurotroll <br>
-      <a href=" https://www.svtplay.se/kristianias-magiska-tivoliteater">Kristianias magiska tivoliteater</a> / Tora 
-      </p> 
-
-      <p>2022 / Iyuno-SDI Media <br>
+      <p>2022-23 / Iyuno-SDI Media <br>
       Batwheels / sång <br>
       Barbie TV-Movie / Emmie <br>
       Eureka / sång 
        </p>
+
+      <p>2022 / Eurotroll <br>
+      <a href=" https://www.svtplay.se/kristianias-magiska-tivoliteater">Kristianias magiska tivoliteater</a> / Tora 
+      </p> 
 
       <p>
       <p>2021 / SDI Media <br>
