@@ -90,6 +90,26 @@
 
     <div class="image-gallery">
       <div class="image">
+        <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/IMG_3587.JPG">
+        <div class="caption">Botten</div>
+      </div>
+      <div class="image">
+        <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/IMG_2401.jpeg">
+        <div class="caption">Bröderna Lejonhjärta / Foto Filippa Persson</div>
+      </div>
+      <div class="image">
+        <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/IMG_3598.jpeg">
+        <div class="caption">Bröderna Lejonhjärta / Foto Filippa Persson</div>
+      </div>    
+      <div class="image">
+        <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/IMG_2349.jpeg">
+        <div class="caption">Bröderna Lejonhjärta / Foto Filippa Persson</div>
+      </div>
+      <div class="image">
+        <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/IMG_3613.jpeg">
+        <div class="caption">Bröderna Lejonhjärta / Foto Filippa Persson </div>
+      </div>
+      <div class="image">
         <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Hjärterdam.jpg">
         <div class="caption"> Alice i Underlandet / Foto Håkan Röjder</div> 
       </div>

@@ -30,7 +30,7 @@
       <p>Språk / Svenska, engelska, enklare spanska</p>
       <p>Dialekt / Östgötska, scensvenska</p>
       <p>Dans / Avancerad jazz och modern/lyrical, behärskar balett och hiphop   </p>
-      <p>Övrigt / Gymnastik, notläsning, självlärd på gitarr, dubb, B-körkort</p>
+      <p>Övrigt / Gymnastik, notläsning, självlärd på gitarr, dubb, stage combat, B-körkort</p>
     </div>
     <div class="cv-section" style="background-color: #faf1dd;">
       <h4>Utbildning</h4>
@@ -66,13 +66,13 @@ Presens Improkällare</p>
        </p>
 
       <p>2022 / Eurotroll <br>
-      <a href=" https://www.svtplay.se/kristianias-magiska-tivoliteater">Kristianias magiska tivoliteater</a> / Tora 
+      Kristianias magiska tivoliteater / Tora 
       </p> 
 
       <p>
       <p>2021 / SDI Media <br>
-      <a href="https://www.netflix.com/search?q=the%20witcher&jbv=80189685"> The Witcher</a> / Danica m.fl.<br>
-       <a href="https://www.netflix.com/watch/81048667?trackId=200257859">Centaurworld</a>  / Valtaur, kattaur m.fl.<br>
+       The Witcher / Danica m.fl.<br>
+      Centaurworld  / Valtaur, kattaur m.fl.<br>
        Barbie TV-Movie / Emmie <br>
        Tom &amp; Jerry / Lola </p>
 
@@ -80,7 +80,7 @@ Presens Improkällare</p>
        <a href="https://www.youtube.com/watch?v=Zp1vHa00KF0&ab_channel=Kjell%26CompanySverige"> VO Kjell &amp; Co.</a> </p>
 
        <p> 2020 / SDI Media <br>
-      <a href="https://se.hbonordic.com/kids/movies/onsketradet/1f10ced-013a36f3e50">The Wishmas Tree</a> / Petra </p>
+      The Wishmas Tree / Petra </p>
 
       <h4 style="margin-top: 60px;">Scen under utbildning</h4>
       <p>2020 / Delar ur <a href="https://www.scenfilm.se/2020/06/15/sorg-och-besvikelse-blev-till-kreativitet-vid-musikalutbildningen/">Tänk/Om</a> / Betty / Högskolan för Scen och Musik</p>
