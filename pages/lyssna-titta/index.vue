@@ -21,7 +21,7 @@
         @mouseover="filmHovered = true" 
         @mouseleave="filmHovered = false"
         @click="gotoFilm()">
-        <source src="/Shortie film23.mp4" type="video/mp4">
+        <source src="/Shortiefilm23.mp4" type="video/mp4">
       </video>
 
       <nuxt-link
