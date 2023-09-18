@@ -19,7 +19,7 @@
           Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar som
           frilansande skådespelerska inom flera konstnärliga områden. Hon är t.ex. uppmärksammad för
           sin tolkning av Alex i den nyskrivna musikalen <em>Kära Anna</em>, i samband med Musikalsymposiet
-          på Smålands Musik och Teater i maj 2020. Under hösten återvänder Frida till samma roll i en
+          på Smålands Musik och Teater i maj 2020. Framöver återvänder Frida till samma roll i en
           ny läsning av föreställningen på Ö2 Scenkonst i Stockholm. Senast på scen sågs Frida i rollen
           som bl.a. Duvdrottningen Sofia i <em>Sagan om Bröderna Lejonhjärta</em> på Astrid Lindgrens Värld
           under sommaren 2023.

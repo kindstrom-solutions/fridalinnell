@@ -44,8 +44,8 @@
         </p>
         <p>
           Sommaren 2023 spelade jag bl.a. Duvdrottningen Sofia i <em>Sagan om Bröderna Lejonhjärta</em> på
-          Astrid Lindgrens Värld. Just nu återvänder jag till rollen som Alex i den nyskrivna musikalen
-          <em>Kära Anna</em> som mynnar ut i en läsning på Ö2 Scenkonst i Stockholm senare i höst.
+          Astrid Lindgrens Värld. Framöver återvänder jag till rollen som Alex i den nyskrivna musikalen
+          <em>Kära Anna</em> som ska mynna ut i en läsning på Ö2 Scenkonst i Stockholm.
         </p>
       </div>
     </div>
