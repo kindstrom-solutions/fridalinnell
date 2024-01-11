@@ -29,74 +29,74 @@
       <p>Längd / 168 cm</p>
       <p>Språk / Svenska, engelska, enklare spanska</p>
       <p>Dialekt / Östgötska, scensvenska</p>
-      <p>Dans / Avancerad jazz och modern/lyrical, behärskar balett och hiphop   </p>
-      <p>Övrigt / Gymnastik, notläsning, självlärd på gitarr, dubb, stage combat, B-körkort</p>
+      <p>Dans / Jazz, balett, modern/lyrical </p>
+      <p>Övrigt / Gymnastik, notläsning, självlärd på gitarr, dubb, stage combat, ridning, B-körkort</p>
     </div>
     <div class="cv-section" style="background-color: #faf1dd;">
       <h4>Utbildning</h4>
-      <p>2017 - 2020 / Konstnärlig kandidatutbildning i musikal / Högskolan för Scen och Musik, Göteborg</p>
-      <p>2015 - 2017 / Musikalartistutbildning / Kulturama, Stockholm</p>
-      <p>2014 / 1 Year Full-time Intensive Diploma in Musical Theatre / Associated Studios, London</p>
+      <p>Konstnärlig kandidatutbildning i musikal <br> Högskolan för Scen och Musik, Göteborg / 2017 - 2020 </p>
+      <p>Musikalartistutbildning <br> Kulturama, Stockholm / 2015 - 2017  </p>
+     <p> 1 Year Full-time Intensive Diploma in Musical Theatre <br> Associated Studios, London / 2014</p>
     </div>
     <div class="scene-section">
       <h4>Scen</h4>
-      <p> 2023 / Sagan om Bröderna Lejonhjärta / Sofia m.fl. / Astrid Lindgrens Värld </p>
-      <p> 2022 / Handbok för Superhjältar (Workshop) / flera roller</p>
-      <p>2022 / <a href="https://inteensamenmusikal.se/"> Inte Ensam (Scenisk reading)</a>  / Celine / Pik
-Presens Improkällare</p>
-      <p>2022 / Kapten Reko på Lill-Skansen / flera roller / Skansen (Teater Pegasus)</p>
-      <p>2021 / <a href="https://www.underhallningspatrullen.se/forestallning/Alice-i-Underlandet">Alice i Underlandet</a> / Hjärter Dam, Påskharen / Kristianstad Teater </p>
-      <p>2021 / Signes val (Historien får liv) / flera roller / Fredriksdal i Helsingborg </p>
-      <p>2020 / <a href="https://www.facebook.com/karaannamusikalen/">Kära Anna</a> (Reading) / Alex / Smålands Musik och Teater</p>
-      <p>2019/2020 / <a href="https://stadsteatern.goteborg.se/pa-scen/2019-2020/herr-puntila-och-hans-drang-matti/">Herr Puntila och hans dräng Matti</a> / Husan Fina, Lagårdspigan, Fru Gyllenstjärna / Göteborgs Stadsteater</p>
-      <p>2018 / Sissel Kyrkjebö’s Jul 2018 / Gästsolist / Lisebergshallen</p>
-      <p>2017 / Familjen Addams / Gammelmor / Kolhusteatern</p>
-      <p>2016 / Stand-in-Artist Eurovision Song Contest / 1944 av Jamala / Globen (SVT)</p>
+      <p> Sagan om Bröderna Lejonhjärta <br> Sofia m.fl. / Astrid Lindgrens Värld / 2023 </p>
+      <p> Handbok för Superhjältar (Workshop) <br> Flera roller / Mys Artisteri / 2022</p>
+      <p> <a href="https://inteensamenmusikal.se/"> Inte Ensam</a> (Scenisk reading)  <br> Celine / Pik 
+Presens Improkällare / 2022</p>
+      <p>Kapten Reko på Lill-Skansen <br> Flera roller / Skansen (Teater Pegasus) / 2022</p>
+      <p> <a href="https://www.underhallningspatrullen.se/forestallning/Alice-i-Underlandet">Alice i Underlandet</a> <br> Hjärter Dam, Påskharen / Kristianstad Teater / 2021  </p>
+      <p> Signes val (Historien får liv) <br> Flera roller / Fredriksdal i Helsingborg / 2021  </p>
+      <p> <a href="https://www.facebook.com/karaannamusikalen/">Kära Anna</a> (Reading) <br> Alex / Smålands Musik och Teater / 2020 </p>
+      <p> <a href="https://stadsteatern.goteborg.se/pa-scen/2019-2020/herr-puntila-och-hans-drang-matti/">Herr Puntila och hans dräng Matti</a> <br> Husan Fina, Lagårdspigan, Fru Gyllenstjärna / Göteborgs Stadsteater / 2019-2020</p>
+      <p>Sissel Kyrkjebö’s Jul <br> Gästsolist / Lisebergshallen / 2018 </p>
+      <p> Familjen Addams <br> Gammelmor / Kolhusteatern / 2017 </p>
+      <p> Stand-in-Artist Eurovision Song Contest <br> 1944 av Jamala / Globen (SVT) / 2016</p>
      
       <h4 style="margin-top: 60px"> Film</h4>
-      <p>2022 / Botten / Mika / Runda Bordet Film</p>
-      <p>2022 / Arken / Marion / Skurups Folkhögskola </p>
-      <p>2022 / Hjärta av glas / Linda / Stockholms Filmskola </p>
+      <p> Botten <br> Mika / Runda Bordet Film / 2022</p>
+      <p> Arken <br> Marion / Skurups Folkhögskola / 2022 </p>
+      <p>  Hjärta av glas <br> Linda / Stockholms Filmskola / 2022 </p>
 
       <h4 style="margin-top: 60px"> Röst</h4>
-      <p>2022-23 / Iyuno-SDI Media <br>
+      <p> Iyuno / 2022-2023 <br>
       Batwheels / sång <br>
       Barbie TV-Movie / Emmie <br>
       Eureka / sång 
        </p>
 
-      <p>2022 / Eurotroll <br>
+      <p> Eurotroll / 2022-2023<br>
+      Gabbys Farm / Mamman <br>
       Kristianias magiska tivoliteater / Tora 
       </p> 
 
       <p>
-      <p>2021 / SDI Media <br>
+      <p>SDI Media / 2020-2021 <br>
        The Witcher / Danica m.fl.<br>
       Centaurworld  / Valtaur, kattaur m.fl.<br>
        Barbie TV-Movie / Emmie <br>
-       Tom &amp; Jerry / Lola </p>
+       Tom &amp; Jerry / Lola <br>
+       The Wishmas Tree / Petra  </p>
 
-       <p> 2021 / TMP <br>
-       <a href="https://www.youtube.com/watch?v=Zp1vHa00KF0&ab_channel=Kjell%26CompanySverige"> VO Kjell &amp; Co.</a> </p>
+       <p> TMP / 2021 <br>
+       <a href="https://www.youtube.com/watch?v=Zp1vHa00KF0&ab_channel=Kjell%26CompanySverige"> Kjell &amp; Co.</a> / VO  </p>
 
-       <p> 2020 / SDI Media <br>
-      The Wishmas Tree / Petra </p>
 
       <h4 style="margin-top: 60px;">Scen under utbildning</h4>
-      <p>2020 / Delar ur <a href="https://www.scenfilm.se/2020/06/15/sorg-och-besvikelse-blev-till-kreativitet-vid-musikalutbildningen/">Tänk/Om</a> / Betty / Högskolan för Scen och Musik</p>
-      <p>2019 / <a href="https://www.facebook.com/pojkarnamusikalen/">Pojkarna</a> (Reading) / Momo / GöteborgsOperan</p>
-      <p>2019 / <a href="https://musicalbridges.se/">Närmare Kanten</a> / Isabelle / Högskolan för Scen och Musik</p>
-      <p>2018 / K+M+R+L / Linda / Högskolan för Scen och Musik</p>
-      <p>2018 / Musikal från början (Devising) / Ensemble / Högskolan för Scen och Musik</p>
-      <p>2018 / <a href="https://www.facebook.com/raoulwallenbergmusical/">Raoul</a> (Reading) / Ensemble / Smålands Musik och Teater</p>
-      <p>2018 / Company / Laura (Harry omskriven till kvinna) / Högskolan för Scen och Musik</p>
-      <p>2017 / Smile the musical / Doria Hudson / Kulturama</p>
-      <p>2016 / Heathers / Ensemble / Kulturama</p>
-      <p>2014 / A Little Night Music / Anne Egerman / Associated Studios</p>
+      <p> Delar ur <a href="https://www.scenfilm.se/2020/06/15/sorg-och-besvikelse-blev-till-kreativitet-vid-musikalutbildningen/">Tänk/Om</a> <br> Betty / Högskolan för Scen och Musik / 2020</p>
+      <p> <a href="https://www.facebook.com/pojkarnamusikalen/">Pojkarna</a> (Reading) <br> Momo / GöteborgsOperan / 2019 </p>
+      <p> <a href="https://musicalbridges.se/">Närmare Kanten</a> <br> Isabelle / Högskolan för Scen och Musik / 2019 </p>
+      <p> K+M+R+L <br> Linda / Högskolan för Scen och Musik / 2018</p>
+      <p> Musikal från början (Devising) <br> Ensemble / Högskolan för Scen och Musik / 2018</p>
+      <p> <a href="https://www.facebook.com/raoulwallenbergmusical/">Raoul</a> (Reading) <br> Ensemble / Smålands Musik och Teater / 2018 </p>
+      <p> Company / Laura (Harry omskriven till kvinna) <br> Högskolan för Scen och Musik / 2018</p>
+      <p> Smile the musical <br> Doria Hudson / Kulturama / 2017 </p>
+      <p> Heathers <br> Ensemble / Kulturama / 2016</p>
+      <p> A Little Night Music <br> Anne Egerman / Associated Studios / 2014</p>
     </div>
     <div class="continuing-section" style="background-color: #faf1dd;">
       <h4>Fortbildning</h4>
-      <p>Expanderat utrymme för skådespelarens gestalning / TeaterAlliansen Strindbergs Intima Teater, Anna Pettersson</p>
+      <p>Expanderat utrymme för skådespelarens gestalning med Anna Pettersson / TeaterAlliansen </p>
       <p>Jazzlinjen JAM Studio / Södertörns Folkhögskola</p>
     </div>
   </div>

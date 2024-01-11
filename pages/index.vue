@@ -17,12 +17,10 @@
         </div>
         <div class="box-text">
           Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar som
-          frilansande skådespelerska inom flera konstnärliga områden. Hon är t.ex. uppmärksammad för
-          sin tolkning av Alex i den nyskrivna musikalen <em>Kära Anna</em>, i samband med Musikalsymposiet
-          på Smålands Musik och Teater i maj 2020. Framöver återvänder Frida till samma roll i en
-          ny läsning av föreställningen på Ö2 Scenkonst i Stockholm. Senast på scen sågs Frida i rollen
-          som bl.a. Duvdrottningen Sofia i <em>Sagan om Bröderna Lejonhjärta</em> på Astrid Lindgrens Värld
-          under sommaren 2023.
+          frilansande skådespelerska inom flera konstnärliga områden. Sommaren 2024 syns hon i
+          rollen som Hodel i Västerbottensteaterns <em>Spelman på Taket</em> regisserad av Ronny Danielsson.
+          Frida återvänder även till rollen som Alex i en ny läsning av den nyskrivna musikalen <em>Kära
+          Anna</em> på Ö2 Scenkonst senare i år.
         </div>
         <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>

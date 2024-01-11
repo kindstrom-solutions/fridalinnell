@@ -18,34 +18,45 @@
       </div>
       <div class="about-text">
         <p>
-          Jag är Frida. Uppvuxen på schlätten utanför Linköping och har numera min bas i Stockholm.
-          Jag är utbildad vid Högskolan för Scen och Musik i Göteborg, och även från förberedande
-          utbildningar både på Kulturama i Stockholm och vid Associated Studios i London.</p>
+         Jag är Frida. Uppvuxen på schlätten utanför Linköping och har numera min bas i Stockholm.
+        Jag är utbildad vid Högskolan för Scen och Musik i Göteborg, och även från förberedande
+        utbildningar både på Kulturama i Stockholm och vid Associated Studios i London.</p>
         <p>
-          På pappret musikalartist, javisst men, sjungande skådespelerska – så brukar jag hellre uttrycka det,
-          eftersom min konstnärliga passion ligger i skådespeleriet. Det var även där mitt intresse för
-          scenkonst startade för snart sisådär tjugo år sedan, då jag varje fredagseftermiddag lekte
-          rövare i en av Linköpings amatörteatergrupper.
+          På pappret musikalartist, javisst men, sjungande skådespelerska – det är ett bättre sätt att
+          beskriva mig och det jag är bäst på. Min konstnärliga passion ligger i skådespeleriet. Det var
+          nämligen teatern jag förälskade mig i för sisådär tjugo år sedan, då jag varje
+          fredagseftermiddag tillsammans med min bästa vän lekte rövare i en av Linköpings
+          amatörteatergrupper. Pladask, och på den vägen var det.
         </p>
         <p>
-          Under hela min kärlekshistoria med scenkonsten har jag provat på både det ena och det andra, och mitt fokus har således blivit att hålla blicken bred utan att tumma på mina konstnärliga värderingar. Förutom att ha gjort en hel rad
-          olika musikaluppsättningar, hade
-          jag exempelvis den annorlunda förmånen att som musikalstudent göra praktik i Bertolt Brechts <em>Herr Puntila och hans dräng Matti </em>på Göteborgs Stadsteater under 2019/2020. Jag har också flitig engagerat mig i
-          <em>Musikalplattforms</em> vision om att lyfta fram nyskriven svensk musikal - där jag under Musikalsymposiet 2020 på Smålands Musik och Teater, gjorde den mycket
-          uppskattade insatsen som Alex i musikalen <em>Kära Anna </em>skriven av Oscar Collin och Pia Ternström. Nuförtiden arbetar jag dessutom i studion med röstjobb i form av dubbning och
-          röstskådespeleri. Under det senaste året har jag också skaffat mig den efterlängtade erfarenheten av att
-          filma, och hoppas få möjligheten att fortsätta göra det mer framöver.
+          Som yrkesperson har jag valt att hålla blicken bred utan att tumma på mina konstnärliga
+          värderingar vilket gör att jag gladeligen arbetar med både talad och sjungen teater. På scen har
+          jag exempelvis synts i musikteaterföreställningen av Bertolt Brechts <em>Puntila och hans
+          Dräng Matti</em> på Göteborgs Stadsteater, i rollen som Hjärter Dam i <em>Alice i Underlandet</em> på
+          Kristianstad Teater och i olika former av teaterberättande koncept på bl.a. Fredriksdal,
+          Skansen och Astrid Lindgrens Värld där interaktiv teater och improvisation varit naturliga
+          delar av uttrycket. Jag arbetar dessutom i studion (Iyuno &amp; Eurotroll) med dubbning och
+          röstskådespeleri och framöver hoppas jag fortsätta utöka min erfarenhet av att jobba framför
+          kameran.
+        </p>
+        <p>
+          Jag har ett extra öga för nyskrivna svenska verk. Frågan har kommit att flytta sig närmast
+          hjärtat efter att jag haft förmånen att delta i flertalet kreativa skapandeprocesser genom åren.
+          Att förädla ett verk i sin tillverkningsfas med hjälp av skådespelarens blick är verkligen något
+          som både utvecklar verket i sig men också skådespelarens sätt att se, förstå och hantera text.
+          Mest uppmärksammad är jag för min tolkning av Alex i den nyskrivna musikalen <em>Kära Anna</em>,
+          som lästes under Musikalsymposiet 2020 på Smålands Musik och Teater.    
         </p>
         <p>
           Jag är hopplöst kär i gestaltning och det sceniska uttrycket. Det bara är så. Jag är ett funny
-          bone, en drama queen och ett känslospröt förkroppsligat i en och samma lyxförpackning,
-          med varsam hänsyn till textens myriader av möjligheter, som finns för den lycklige som får
-          hålla på med skådespeleri.    
+          bone, en drama queen och ett känslospröt förkroppsligat i en och samma lyxförpackning, med
+          varsam hänsyn till textens myriader av möjligheter, som finns för den lycklige som får hålla
+          på med skådespeleri.
         </p>
         <p>
-          Sommaren 2023 spelade jag bl.a. Duvdrottningen Sofia i <em>Sagan om Bröderna Lejonhjärta</em> på
-          Astrid Lindgrens Värld. Framöver återvänder jag till rollen som Alex i den nyskrivna musikalen
-          <em>Kära Anna</em> som ska mynna ut i en läsning på Ö2 Scenkonst i Stockholm.
+          Sommaren 2024 syns jag på Västerbottensteatern i <em> Spelman på Taket </em> regisserad av Ronny
+          Danielsson i rollen som Hodel, och dessutom medverkar jag återigen som Alex i en ny
+          läsning av <em> Kära Anna </em> på Ö2 Scenkonst i Stockholm senare i år.
         </p>
       </div>
     </div>
