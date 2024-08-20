@@ -31,9 +31,11 @@
         <p>
           Som yrkesperson har jag valt att hålla blicken bred utan att tumma på mina konstnärliga
           värderingar vilket gör att jag gladeligen arbetar med både talad och sjungen teater. På scen har
-          jag exempelvis synts i musikteaterföreställningen av Bertolt Brechts <em>Puntila och hans
-          Dräng Matti</em> på Göteborgs Stadsteater, i rollen som Hjärter Dam i <em>Alice i Underlandet</em> på
-          Kristianstad Teater och i olika former av teaterberättande koncept på bl.a. Fredriksdal,
+          jag exempelvis synts i rollen som Hodel i den klassiska musikalen <em>Spelman på taket</em>
+          på Västerbottensteatern, i rollen som Hjärter Dam i <em>Alice i Underlandet</em> på
+          Kristianstad Teater och i musikteaterföreställningen av Bertolt Brechts <em>Puntila och hans
+          Dräng Matti</em> på Göteborgs Stadsteater. Jag har även arbetat mycket med 
+          olika former av teaterberättande koncept på bl.a. Fredriksdal,
           Skansen och Astrid Lindgrens Värld där interaktiv teater och improvisation varit naturliga
           delar av uttrycket. Jag arbetar dessutom i studion (Iyuno &amp; Eurotroll) med dubbning och
           röstskådespeleri och framöver hoppas jag fortsätta utöka min erfarenhet av att jobba framför
@@ -45,7 +47,8 @@
           Att förädla ett verk i sin tillverkningsfas med hjälp av skådespelarens blick är verkligen något
           som både utvecklar verket i sig men också skådespelarens sätt att se, förstå och hantera text.
           Mest uppmärksammad är jag för min tolkning av Alex i den nyskrivna musikalen <em>Kära Anna</em>,
-          som lästes under Musikalsymposiet 2020 på Smålands Musik och Teater.    
+          där jag medverkat under de senaste två läsningarna som gjorts av verket; både på Musikalsymposiet
+          2020 på Smålands Musik och Teater och på Ö2 Scenkonst i Stockholm under våren 2024.    
         </p>
         <p>
           Jag är hopplöst kär i gestaltning och det sceniska uttrycket. Det bara är så. Jag är ett funny
@@ -54,9 +57,8 @@
           på med skådespeleri.
         </p>
         <p>
-          Sommaren 2024 syns jag på Västerbottensteatern i <em> Spelman på Taket </em> regisserad av Ronny
-          Danielsson i rollen som Hodel, och dessutom medverkar jag återigen som Alex i en ny
-          läsning av <em> Kära Anna </em> på Ö2 Scenkonst i Stockholm senare i år.
+          I höst medverkar jag i uppsättningen av Godspell som kommer spelas i Engelbrektskyrkan i början av
+          oktober.
         </p>
       </div>
     </div>

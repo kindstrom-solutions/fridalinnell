@@ -82,13 +82,17 @@
     </div>
 
     <div class="spacer"></div>
-
     <div class="quote-section">
-      <h2>“Frida Linnell river ner applåder långt innan hon har sjungit klart, och är glimrande i minirollen fru Gyllenstjärna”</h2>
-      <p>— Aftonbladet</p>
-    </div>
+      <h2>“Frida Linnell, som dotter Hodel, är ett riktigt fynd. Hon glittrar, dansar och sjunger på en nivå som vi inte alltid är vana
+        att se på Västerbottensteaterns scen”</h2>
+      <p>— Norrbottens-Kuriren</p>
+  </div>
 
     <div class="image-gallery">
+      <div class="image">
+        <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/hodel_and_perc.jpg">
+        <div class="caption">Spelman på taket / Foto Patrick Degerman</div>
+      </div>
       <div class="image">
         <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/IMG_3587.JPG">
         <div class="caption">Botten</div>
@@ -96,6 +100,10 @@
       <div class="image">
         <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/IMG_2401.jpeg">
         <div class="caption">Bröderna Lejonhjärta / Foto Filippa Persson</div>
+      </div>
+      <div class="image">
+        <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/hodel_and_sistahs.jpg">
+        <div class="caption">Spelman på taket / Foto Patrick Degerman</div>
       </div>
       <div class="image">
         <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/IMG_3598.jpeg">
@@ -158,8 +166,14 @@
         <div class="caption">Närmare Kanten / Foto Annica Engström</div>
       </div>
     </div>
+    
+  <div class="quote-section">
+  <h2>“Frida Linnell river ner applåder långt innan hon har sjungit klart, och är glimrande i minirollen fru Gyllenstjärna”</h2>
+  <p>— Aftonbladet</p>
+</div>
   </div>
 </template>
+
 
 <script>
 export default {

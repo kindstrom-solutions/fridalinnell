@@ -17,10 +17,10 @@
         </div>
         <div class="box-text">
           Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar som
-          frilansande skådespelerska inom flera konstnärliga områden. Sommaren 2024 syns hon i
-          rollen som Hodel i Västerbottensteaterns <em>Spelman på Taket</em> regisserad av Ronny Danielsson.
-          Frida återvänder även till rollen som Alex i en ny läsning av den nyskrivna musikalen <em>Kära
-          Anna</em> på Ö2 Scenkonst senare i år.
+          frilansande skådespelerska inom flera konstnärliga områden. Senast på scen syntes hon i rollen som 
+          Hodel i den hyllade uppsättningen av <em>Spelman på Taket</em> 
+          på Västerbottensteatern, dit hon också återvänder nästa sommar.
+          Hösten 2024 medverkar Frida i <em>Godspell</em> i Engelbrektskyrkan.
         </div>
         <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>
