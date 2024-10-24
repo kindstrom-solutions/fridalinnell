@@ -90,6 +90,10 @@
 
     <div class="image-gallery">
       <div class="image">
+        <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/DSC00119.jpeg">
+        <div class="caption"> Godspell / Foto Izabella Tancredi</div>
+      </div>
+      <div class="image">
         <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/hodel_and_perc.jpg">
         <div class="caption">Spelman på taket / Foto Patrick Degerman</div>
       </div>
