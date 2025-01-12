@@ -3,6 +3,7 @@
     <div class="mobile-menu" :class="{ visible: overlayVisible }">
       <a class="closebtn" @click="hideOverlay()">&times;</a>
       <div class="overlay-content">
+        <nuxt-link to="/aktuellt">Aktuellt</nuxt-link>
         <nuxt-link to="/om-mig">Om mig</nuxt-link>
         <nuxt-link to="/cv">CV</nuxt-link>
         <nuxt-link to="/lyssna-titta">Lyssna och titta</nuxt-link>
@@ -12,6 +13,7 @@
     <header :class="textColor" :style="{ width: overlayVisible ? '50%' : '100%' }">
       <nuxt-link to="/" class="site-title">Frida Linnell</nuxt-link>
       <div v-if="!overlayVisible" class="links">
+        <nuxt-link to="/aktuellt" :class="{ active: $route.name === 'aktuellt' }">Aktuellt</nuxt-link>
         <nuxt-link to="/om-mig" :class="{ active: $route.name === 'om-mig' }">Om mig</nuxt-link>
         <nuxt-link to="/cv" :class="{ active: $route.name === 'cv' }">CV</nuxt-link>
         <nuxt-link to="/lyssna-titta" :class="{ active: $route.name === 'lyssna-titta' }">Lyssna och titta</nuxt-link>
@@ -46,7 +48,7 @@ export default {
         return 'black-text'
       }
       const route = this.$route.name
-      if (route === 'cv' || route === 'kontakt' || route === 'lyssna-titta-film' || route === 'lyssna-titta-scen') {
+      if (route === 'aktuellt' || route === 'cv' || route === 'kontakt' || route === 'lyssna-titta-film' ||  route === 'lyssna-titta-scen') {
         return 'black-text'
       } else {
         return ''

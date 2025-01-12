@@ -57,8 +57,8 @@
           på med skådespeleri.
         </p>
         <p>
-          I höst medverkar jag i uppsättningen av Godspell som kommer spelas i Engelbrektskyrkan i början av
-          oktober.
+          Senare i år återvänder jag till Västerbottensteatern och rollen som
+Hodel i <em>Spelman på Taket</em> regisserad av Ronny Danielsson.
         </p>
       </div>
     </div>
