@@ -147,7 +147,7 @@ export default {
   padding: 3.3vmax 6vw;
   align-items: center;
 
-  @media screen and (min-width: 700px) {
+  @media screen and (min-width: 1000px) {
     grid-template-columns: 1fr 1fr;
     padding: 3.3vmax 4vw;
   }
@@ -173,7 +173,7 @@ export default {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
-    padding: 3vmax 0;
+    padding: 3vmax 3vw;
     position: relative;
     align-self: normal;
 
