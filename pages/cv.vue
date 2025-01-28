@@ -74,16 +74,24 @@
         <!-- Title (with optional link) -->
         <p class="title">
           <span v-if="item.url">
-            <a :href="item.url" target="_blank" rel="noopener">{{
-              item.title
-            }}</a>
+            <a :href="item.url" target="_blank" rel="noopener">
+              {{ item.title }}
+            </a>
           </span>
           <span v-else>{{ item.title }}</span>
         </p>
-        <p class="role">{{ item.role }}</p>
-        <p class="theater">{{ item.theater }}</p>
-        <p class="director">{{ item.director }}</p>
-        <p class="year">{{ item.year }}</p>
+        <template v-if="screenWidth > 800">
+          <p class="role">{{ item.role }}</p>
+          <p class="theater">{{ item.theater }}</p>
+          <p class="director">{{ item.director }}</p>
+          <p class="year">{{ item.year }}</p>
+        </template>
+        <template v-else>
+          <p>
+            {{ item.role }}, {{ item.theater }}, {{ item.director }},
+            {{ item.year }}
+          </p>
+        </template>
       </div>
     </div>
 
@@ -97,11 +105,26 @@
       <h5 class="table-header">År</h5>
 
       <div v-for="(item, index) in filmData" :key="index" class="table-row">
-        <p class="title">{{ item.title }}</p>
-        <p class="role">{{ item.role }}</p>
-        <p class="theater">{{ item.production }}</p>
-        <p class="director">{{ item.director }}</p>
-        <p class="year">{{ item.year }}</p>
+        <p class="title">
+          <span v-if="item.url">
+            <a :href="item.url" target="_blank" rel="noopener">
+              {{ item.title }}
+            </a>
+          </span>
+          <span v-else>{{ item.title }}</span>
+        </p>
+        <template v-if="screenWidth > 800">
+          <p class="role">{{ item.role }}</p>
+          <p class="theater">{{ item.production }}</p>
+          <p class="director">{{ item.director }}</p>
+          <p class="year">{{ item.year }}</p>
+        </template>
+        <template v-else>
+          <p>
+            {{ item.role }}, {{ item.production }}, {{ item.director }},
+            {{ item.year }}
+          </p>
+        </template>
       </div>
     </div>
 
@@ -117,22 +140,27 @@
       <div v-for="(item, index) in voiceData" :key="index" class="table-row">
         <p class="title">
           <span v-if="item.url">
-            <a :href="item.url" target="_blank" rel="noopener">{{
-              item.title
-            }}</a>
+            <a :href="item.url" target="_blank" rel="noopener">
+              {{ item.title }}
+            </a>
           </span>
           <span v-else>{{ item.title }}</span>
         </p>
-        <p class="role">{{ item.role }}</p>
-        <p class="studio">{{ item.studio }}</p>
-        <p class="year">{{ item.year }}</p>
-        <p></p>
+        <template v-if="screenWidth > 800">
+          <p class="role">{{ item.role }}</p>
+          <p class="studio">{{ item.studio }}</p>
+          <p class="year">{{ item.year }}</p>
+          <p></p>
+        </template>
+        <template v-else>
+          <p>{{ item.role }}, {{ item.studio }}, {{ item.year }}</p>
+        </template>
       </div>
     </div>
 
     <!-- SCEN UNDER UTBILDNING -->
     <h4 style="padding: 10px 4vw; padding-top: 40px">Scen under utbildning</h4>
-    <div class="section-grid edu-grid" style="padding-bottom: 2rem;">
+    <div class="section-grid edu-grid" style="padding-bottom: 2rem">
       <h5 class="table-header">Pjäs</h5>
       <h5 class="table-header">Roll</h5>
       <h5 class="table-header">Institution</h5>
@@ -146,16 +174,24 @@
       >
         <p class="title">
           <span v-if="item.url">
-            <a :href="item.url" target="_blank" rel="noopener">{{
-              item.title
-            }}</a>
+            <a :href="item.url" target="_blank" rel="noopener">
+              {{ item.title }}
+            </a>
           </span>
           <span v-else>{{ item.title }}</span>
         </p>
-        <p class="role">{{ item.role }}</p>
-        <p class="institution">{{ item.institution }}</p>
-        <p class="director">{{ item.director }}</p>
-        <p class="year">{{ item.year }}</p>
+        <template v-if="screenWidth > 800">
+          <p class="role">{{ item.role }}</p>
+          <p class="institution">{{ item.institution }}</p>
+          <p class="director">{{ item.director }}</p>
+          <p class="year">{{ item.year }}</p>
+        </template>
+        <template v-else>
+          <p>
+            {{ item.role }}, {{ item.institution }}, {{ item.director }},
+            {{ item.year }}
+          </p>
+        </template>
       </div>
     </div>
 
@@ -176,6 +212,7 @@
 export default {
   data() {
     return {
+      screenWidth: window.innerWidth,
       // ===== SCEN data =====
       scenData: [
         {
@@ -286,6 +323,7 @@ export default {
       // ===== FILM data =====
       filmData: [
         {
+          url: null,
           title: "Botten",
           role: "Mika",
           production: "Runda Bordet Film",
@@ -293,6 +331,7 @@ export default {
           year: "2022",
         },
         {
+          url: null,
           title: "Arken",
           role: "Marion",
           production: "Skurups Folkhögskola",
@@ -300,6 +339,7 @@ export default {
           year: "2022",
         },
         {
+          url: null,
           title: "Hjärta av glas",
           role: "Linda",
           production: "Stockholms Filmskola",
@@ -452,6 +492,22 @@ export default {
       ],
     };
   },
+  computed: {
+    isWideScreen() {
+      return this.screenWidth > 800; // Check if screen width is above 800px
+    },
+  },
+  methods: {
+    updateScreenWidth() {
+      this.screenWidth = window.innerWidth; // Update screen width on resize
+    },
+  },
+  mounted() {
+    window.addEventListener("resize", this.updateScreenWidth); // Listen to resize
+  },
+  beforeDestroy() {
+    window.removeEventListener("resize", this.updateScreenWidth); // Cleanup
+  },
   head() {
     return {
       title: "Frida Linnell | CV",
@@ -576,38 +632,8 @@ export default {
     border-radius: 4px;
     margin-bottom: 20px;
     padding: 16px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  }
-
-  /* Example "labels" for mobile, if you'd like them: */
-  .section-grid .table-row .title {
-    font-weight: bold;
-    font-size: 16px;
-    margin-bottom: 10px;
-  }
-  .section-grid .table-row .role::before {
-    content: "Roll: ";
-    font-weight: 500;
-  }
-  .section-grid .table-row .theater::before {
-    content: "Teater: ";
-    font-weight: 500;
-  }
-  .section-grid .table-row .director::before {
-    content: "Regissör: ";
-    font-weight: 500;
-  }
-  .section-grid .table-row .studio::before {
-    content: "Studio: ";
-    font-weight: 500;
-  }
-  .section-grid .table-row .year::before {
-    content: "År: ";
-    font-weight: 500;
-  }
-  .section-grid .table-row .institution::before {
-    content: "Institution: ";
-    font-weight: 500;
+    // box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border: 1px rgb(250, 241, 221) solid;
   }
 }
 </style>
