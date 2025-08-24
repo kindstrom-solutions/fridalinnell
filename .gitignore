@@ -160,3 +160,6 @@ npm-debug.log
 # Nuxt generate
 
 # End of https://www.toptal.com/developers/gitignore/api/node,nuxt,nuxtjs,macos
+
+
+.idea

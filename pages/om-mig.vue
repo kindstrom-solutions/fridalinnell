@@ -56,10 +56,6 @@
           varsam hänsyn till textens myriader av möjligheter, som finns för den lycklige som får hålla
           på med skådespeleri.
         </p>
-        <p>
-          Senare i år återvänder jag till Västerbottensteatern och rollen som
-Hodel i <em>Spelman på Taket</em> regisserad av Ronny Danielsson.
-        </p>
       </div>
     </div>
   </div>

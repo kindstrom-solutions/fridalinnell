@@ -17,9 +17,9 @@
         </div>
         <div class="box-text">
           Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar
-som frilansande skådespelerska inom flera konstnärliga områden. Senare i år
-återvänder Frida till Västerbottensteatern och den hyllade uppsättningen av <em>Spelman
-på Taket</em>, där hon spelar rollen som Hodel.
+          som frilansande skådespelerska inom flera konstnärliga områden. Frida sågs senast
+          på Västerbottensteatern i den hyllade uppsättningen av <em>Spelman på Taket</em>, där hon
+          spelade rollen som Hodel.
         </div>
         <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>

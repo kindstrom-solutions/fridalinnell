@@ -90,6 +90,14 @@
 
     <div class="image-gallery">
       <div class="image">
+        <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/frida_fucking_leskig_komp.jpg">
+        <div class="caption"> Spelman på taket / Foto Patrick Degerman</div>
+      </div>
+      <div class="image">
+        <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/Frida_spelman_dans_komp.jpg">
+        <div class="caption">Spelman på taket / Foto Patrick Degerman</div>
+      </div>
+      <div class="image">
         <img alt="Familjen Addams / Foto Glenn Rindhoff" src="/DSC00119.jpeg">
         <div class="caption"> Godspell / Foto Izabella Tancredi</div>
       </div>

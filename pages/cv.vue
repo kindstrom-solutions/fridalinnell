@@ -199,7 +199,7 @@
     <div class="other-section" style="background-color: #faf1dd">
       <h4>Fortbildning</h4>
       <p>
-        Grafisk design och typografi, Linneuniversitetet <br />
+        Musikal - sångteknik och gestaltning, Helena Jonason, Kungliga Musikhögskolan <br />
         Expanderat utrymme för skådespelarens gestalning med Anna Pettersson,
         TeaterAlliansen <br />
         Jazzlinjen JAM Studio, Södertörns Folkhögskola
@@ -217,7 +217,7 @@ export default {
       scenData: [
         {
           title: "Spelman på taket",
-          role: "Hodel",
+          role: "Hodel, Fromma Sarah",
           theater: "Västerbottensteatern",
           director: "Ronny Danielsson, Roger Lybeck",
           year: "2024/2025",
@@ -322,6 +322,14 @@ export default {
 
       // ===== FILM data =====
       filmData: [
+        {
+          url: null,
+          title: "Elkjop More",
+          role: "Main Productivity",
+          production: "Bleck Film",
+          director: "Mackan Svanberg",
+          year: "2025",
+        },
         {
           url: null,
           title: "Botten",
