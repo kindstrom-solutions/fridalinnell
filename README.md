@@ -17,7 +17,7 @@ $ npm run generate
 # deploy
 $ npm run deploy
 ```
-
+```
 For windows nubs:
 # installs fnm (Fast Node Manager)
 winget install Schniz.fnm
@@ -33,3 +33,4 @@ node -v # should print `14.16.0'
 
 # verifies the right npm version is in the environment
 npm -v # should print `6.14.11
+```

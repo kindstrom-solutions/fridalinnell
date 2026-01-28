@@ -199,8 +199,10 @@
     <div class="other-section" style="background-color: #faf1dd">
       <h4>Fortbildning</h4>
       <p>
+        Arbeta med regissörer - Helena Sandström Cruz & Martin Rosengardten,
+        TeaterAlliansen <br />
         Musikal - sångteknik och gestaltning, Helena Jonason, Kungliga Musikhögskolan <br />
-        Expanderat utrymme för skådespelarens gestalning med Anna Pettersson,
+        Expanderat utrymme för skådespelarens gestalning - Anna Pettersson,
         TeaterAlliansen <br />
         Jazzlinjen JAM Studio, Södertörns Folkhögskola
       </p>
