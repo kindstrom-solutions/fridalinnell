@@ -56,6 +56,9 @@
           varsam hänsyn till textens myriader av möjligheter, som finns för den lycklige som får hålla
           på med skådespeleri.
         </p>
+        <p>
+        Hösten 2026 medverkar jag i <em>Stadens ljus</em> på Uppsala Stadsteater.
+        </p>
       </div>
     </div>
   </div>

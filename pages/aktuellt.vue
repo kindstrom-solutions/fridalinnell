@@ -3,6 +3,32 @@
     <!-- <h1 class="page-header">Scen</h1> -->
 
     <div class="y2b-grid" style="margin-top: 8rem; background-color: #faf1dd">
+  <div class="text-box">
+    <div class="image" style="background-color: #fff">
+      <img
+        alt="Familjen Addams / Foto Glenn Rindhoff"
+        src="/uppsala.png"
+        style="object-fit: contain;"
+      />
+    </div>
+    <h4 style="background-color: #fff">
+      Stadens ljus<br />
+      Uppsala Stadsteater <br />
+      2026
+    </h4>
+  </div>
+
+  <div class="video">
+    <div class="video-frame">
+      <img
+        alt="Stadens ljus"
+        src="/Stadens Ljus_croppad.png"
+      />
+    </div>
+  </div>
+</div>
+
+    <div class="y2b-grid" style="background-color: #faf1dd">
       <div class="text-box">
         <div class="image" style="background-color: #fff">
           <img
@@ -160,12 +186,13 @@ export default {
       overflow: hidden;
       max-width: 100%;
 
-      iframe {
+      iframe, img {
         position: absolute;
         top: 0;
         left: 0;
         width: 100%;
         height: 100%;
+        object-fit: cover; // only really affects img
       }
     }
   }
