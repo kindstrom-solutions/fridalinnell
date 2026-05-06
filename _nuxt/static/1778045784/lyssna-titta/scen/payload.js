@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lyssna-titta/scen", {data:[{}],fetch:{},mutations:void 0});
