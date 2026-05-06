@@ -12,9 +12,10 @@
       />
     </div>
     <h4 style="background-color: #fff">
-      Stadens ljus<br />
+      <a href="https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/" target="_blank">Stadens ljus<br />
       Uppsala Stadsteater <br />
-      2026
+      2026</a>
+      
     </h4>
   </div>
 

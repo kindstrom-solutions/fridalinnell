@@ -57,7 +57,7 @@
           på med skådespeleri.
         </p>
         <p>
-        Hösten 2026 medverkar jag i <em>Stadens ljus</em> på Uppsala Stadsteater.
+        Hösten 2026 medverkar jag i <a href="https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/" target="_blank">Stadens ljus</a> på Uppsala Stadsteater.
         </p>
       </div>
     </div>

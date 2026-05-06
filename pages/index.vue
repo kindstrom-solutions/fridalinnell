@@ -18,7 +18,7 @@
         <div class="box-text">
           Frida Linnell är utbildad vid Högskolan för Scen och Musik i Göteborg och arbetar
           som frilansande skådespelerska inom flera konstnärliga områden. Frida är hösten
-           2026 aktuell i <em>Stadens ljus</em> på Uppsala Stadsteater.
+           2026 aktuell i <a href="https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/" target="_blank">Stadens ljus</a> på Uppsala Stadsteater.
         </div>
         <nuxt-link to="/om-mig" class="box-button">Om mig</nuxt-link>
       </div>
