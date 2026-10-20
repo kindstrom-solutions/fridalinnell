@@ -217,6 +217,14 @@ export default {
       screenWidth: window.innerWidth,
       // ===== SCEN data =====
       scenData: [
+      {
+          title: "Stadens Ljus",
+          role: "Blinda blomsterflickans röst, m.fl.",
+          theater: "Uppsala Stadsteater",
+          director: "Amalia Bennett",
+          year: "2026",
+          url: "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+        },
         {
           title: "Spelman på taket",
           role: "Hodel, Fromma Sarah",
